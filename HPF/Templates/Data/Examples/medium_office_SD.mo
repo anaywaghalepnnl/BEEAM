@@ -63,7 +63,7 @@ lum_phaseA={.HPF.Templates.Data.LoadwStepDown(
           Pnom={6360},
           R={123},
           tableName={"L1-Core-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP_garbledText.txt")}),
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")}),
         .HPF.Templates.Data.LoadwStepDown(
           nLoad=1,
           loadNames={"load1"},
@@ -72,7 +72,7 @@ lum_phaseA={.HPF.Templates.Data.LoadwStepDown(
           Pnom={1296},
           R={0},
           tableName={"L1-Zn1-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")}),
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")}),
         .HPF.Templates.Data.LoadwStepDown(
           nLoad=1,
           loadNames={"load1"},
@@ -81,7 +81,7 @@ lum_phaseA={.HPF.Templates.Data.LoadwStepDown(
           Pnom={860},
           R={0},
           tableName={"L1-Zn2-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")}),
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")}),
         .HPF.Templates.Data.LoadwStepDown(
           nLoad=1,
           loadNames={"load1"},
@@ -90,7 +90,7 @@ lum_phaseA={.HPF.Templates.Data.LoadwStepDown(
           Pnom={1248},
           R={0},
           tableName={"L1-Zn3-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")}),
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")}),
         .HPF.Templates.Data.LoadwStepDown(
           nLoad=1,
           loadNames={"load1"},
@@ -99,7 +99,7 @@ lum_phaseA={.HPF.Templates.Data.LoadwStepDown(
           Pnom={803},
           R={0},
           tableName={"L1-Zn4-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")})},
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")})},
 
 lumconv_phaseB={.HPF.Templates.Data.ACConverter(name="converter1",
           V_Rect=19.5,
@@ -149,7 +149,7 @@ lum_phaseB={.HPF.Templates.Data.LoadwStepDown(
           Pnom={6091},
           R={0},
           tableName={"L1-Core-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")}),
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")}),
         .HPF.Templates.Data.LoadwStepDown(
           nLoad=1,
           loadNames={"load1"},
@@ -158,7 +158,7 @@ lum_phaseB={.HPF.Templates.Data.LoadwStepDown(
           Pnom={1678},
           R={0},
           tableName={"L1-Zn1-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")}),
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")}),
         .HPF.Templates.Data.LoadwStepDown(
           nLoad=1,
           loadNames={"load1"},
@@ -167,7 +167,7 @@ lum_phaseB={.HPF.Templates.Data.LoadwStepDown(
           Pnom={940},
           R={0},
           tableName={"L1-Zn2-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")}),
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")}),
         .HPF.Templates.Data.LoadwStepDown(
           nLoad=1,
           loadNames={"load1"},
@@ -176,7 +176,7 @@ lum_phaseB={.HPF.Templates.Data.LoadwStepDown(
           Pnom={1203},
           R={0},
           tableName={"L1-Zn3-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")}),
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")}),
         .HPF.Templates.Data.LoadwStepDown(
           nLoad=1,
           loadNames={"load1"},
@@ -185,7 +185,7 @@ lum_phaseB={.HPF.Templates.Data.LoadwStepDown(
           Pnom={745},
           R={0},
           tableName={"L1-Zn4-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")})},
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")})},
 
 lumconv_phaseC={.HPF.Templates.Data.ACConverter(name="converter1",
           V_Rect=19.5,
@@ -235,7 +235,7 @@ lum_phaseC={.HPF.Templates.Data.LoadwStepDown(
           Pnom={6251},
           R={0},
           tableName={"L1-Core-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")}),
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")}),
         .HPF.Templates.Data.LoadwStepDown(
           nLoad=1,
           loadNames={"load1"},
@@ -244,7 +244,7 @@ lum_phaseC={.HPF.Templates.Data.LoadwStepDown(
           Pnom={1371},
           R={0},
           tableName={"L1-Zn1-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")}),
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")}),
         .HPF.Templates.Data.LoadwStepDown(
           nLoad=1,
           loadNames={"load1"},
@@ -253,7 +253,7 @@ lum_phaseC={.HPF.Templates.Data.LoadwStepDown(
           Pnom={739},
           R={0},
           tableName={"L1-Zn2-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")}),
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")}),
         .HPF.Templates.Data.LoadwStepDown(
           nLoad=1,
           loadNames={"load1"},
@@ -262,7 +262,7 @@ lum_phaseC={.HPF.Templates.Data.LoadwStepDown(
           Pnom={1397},
           R={0},
           tableName={"L1-Zn3-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")}),
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")}),
         .HPF.Templates.Data.LoadwStepDown(
           nLoad=1,
           loadNames={"load1"},
@@ -271,6 +271,6 @@ lum_phaseC={.HPF.Templates.Data.LoadwStepDown(
           Pnom={771},
           R={0},
           tableName={"L1-Zn4-Lights"},
-          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")})}
+          fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")})}
 );
 end medium_office_SD;

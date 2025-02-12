@@ -10,7 +10,7 @@ model LoadwStepDown
           Pnom={0},
           R={0},
           tableName={"L1-Core-Lights"},
-          fileName={ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_Light_LP.txt")})
+          fileName={ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_Light_LP.txt")})
         annotation(Placement(transformation(extent = {{-4.0,52.0},{16.0,72.0}},origin = {0.0,0.0},rotation = 0.0)));
     .HPF.Sources.DC.FixedVoltage_VariablePower fixedVoltage_VariablePower(v_out = 60) annotation(Placement(transformation(extent = {{-10.0,-10.0},{10.0,10.0}},origin = {16.0,0.0},rotation = -180.0)));
     .Modelica.Blocks.Sources.Constant const(k = 10000) annotation(Placement(transformation(extent = {{-36,-28},{-16,-8}},origin = {0,0},rotation = 0)));
