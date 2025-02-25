@@ -16,13 +16,14 @@ model VoltageSource "Voltage Source"
           = (v.re*i.re + v.im*i.im) + j(v.im*i.re - v.re*i.im) 
       */
   Real P = v[:].re * i[:].re + v[:].im * i[:].im "Real Power";
-  Real iMag[systemDef.numHrm] = Modelica.ComplexMath.'abs'(i[:]);
+  Real iMag[systemDef.numHrm]=Modelica.ComplexMath.abs(i[:]);
   Real iArg[systemDef.numHrm] = Modelica.ComplexMath.arg(i[:]);
 equation
 /*
     extra constraint definition for loop breaking.
   */
-  if(Connections.isRoot(pin_p.reference)) then
+  if
+    (Connections.isRoot(pin_p.reference)) then
     omega = 2 * Modelica.Constants.pi * systemDef.fFund;
   end if;
 /*

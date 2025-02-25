@@ -19,7 +19,7 @@
             "solver" : "CVode"
           },
           "solverOptions" : {
-            "tolerance" : 0.01
+            "tolerance" : 0.1
           },
           "compilerOptions" : {
             "c_compiler" : "gcc",
@@ -65,7 +65,7 @@
   },
   "metadata" : {
     "created" : "2024-01-24T22:49:25.524Z",
-    "lastModified" : "2024-06-29T22:42:38.029794093Z",
+    "lastModified" : "2024-10-22T21:21:33.157108929Z",
     "name" : "Experiment 1"
   }
 }

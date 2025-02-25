@@ -52,7 +52,7 @@ model Scenario_3_Data_Set_3_1
     Placement(visible = true, transformation(origin = {92, -146}, extent = {{-10, -10}, {10, 10}}, rotation = -90)));
   SinglePhase.Components.Ground ground19 annotation (
     Placement(visible = true, transformation(origin = {30, -158}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
-  
+
 equation
   connect(voltageSource.pinN, ground.pin) annotation (
     Line(points = {{-148, -8.75}, {-148, -18.75}}, color = {117, 80, 123}));

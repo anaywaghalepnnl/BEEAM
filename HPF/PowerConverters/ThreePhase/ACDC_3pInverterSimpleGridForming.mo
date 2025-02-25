@@ -1,35 +1,40 @@
 within HPF.PowerConverters.ThreePhase;
-
 model ACDC_3pInverterSimpleGridForming
   extends HPF.PowerConverters.ThreePhase.ACDC_3pConverterBase;
   import Modelica.ComplexMath.j;
   // Voltage source parameters
-  parameter Modelica.SIunits.Voltage vMag_ref = 120 "Output phase voltage magnitude";
-  parameter Modelica.SIunits.Angle vArg_ref = 0 "Output phase voltage reference angle";
-  
-  final parameter Modelica.SIunits.Angle vAngle_ref_A = vArg_ref;
-  final parameter Modelica.SIunits.Angle vAngle_ref_B = vArg_ref - Modelica.SIunits.Conversions.from_deg(120);
-  final parameter Modelica.SIunits.Angle vAngle_ref_C = vArg_ref + Modelica.SIunits.Conversions.from_deg(120);
+  parameter Modelica.Units.SI.Voltage vMag_ref=120
+    "Output phase voltage magnitude";
+  parameter Modelica.Units.SI.Angle vArg_ref=0
+    "Output phase voltage reference angle";
+
+  final parameter Modelica.Units.SI.Angle vAngle_ref_A=vArg_ref;
+  final parameter Modelica.Units.SI.Angle vAngle_ref_B=vArg_ref -
+      Modelica.Units.Conversions.from_deg(120);
+  final parameter Modelica.Units.SI.Angle vAngle_ref_C=vArg_ref +
+      Modelica.Units.Conversions.from_deg(120);
   // Loss model parameters
-  parameter Real alpha = 0.0 "Loss model constant term (per-unit)" annotation(
+  parameter Real alpha = 0.0 "Loss model constant term (per-unit)" annotation (
     Dialog(group = "Converter Loss Model"));
-  parameter Real beta = 0.1 "Loss model linear term (per-unit)" annotation(
+  parameter Real beta = 0.1 "Loss model linear term (per-unit)" annotation (
     Dialog(group = "Converter Loss Model"));
-  parameter Real gamma = 0.0 "Loss model quadratic term (per-unit)" annotation(
+  parameter Real gamma = 0.0 "Loss model quadratic term (per-unit)" annotation (
     Dialog(group = "Converter Loss Model"));
-  parameter Modelica.SIunits.Power P_stby = 0 "Standby loss" annotation(
-    Dialog(group = "Converter Loss Model"));
-  parameter Modelica.SIunits.Power P_ACmin = 1 "Minimum output power (2-stage loss model)" annotation(Dialog(group="Converter Loss Model"));
+  parameter Modelica.Units.SI.Power P_stby=0 "Standby loss"
+    annotation (Dialog(group="Converter Loss Model"));
+  parameter Modelica.Units.SI.Power P_ACmin=1
+    "Minimum output power (2-stage loss model)"
+    annotation (Dialog(group="Converter Loss Model"));
   // AC measurements: Phases A, B, C
-  Real IA_mag[systemDef.numHrm] = Modelica.ComplexMath.'abs'(phaseA.i);
-  Real IB_mag[systemDef.numHrm] = Modelica.ComplexMath.'abs'(phaseB.i);
-  Real IC_mag[systemDef.numHrm] = Modelica.ComplexMath.'abs'(phaseC.i);
+  Real IA_mag[systemDef.numHrm]=Modelica.ComplexMath.abs(phaseA.i);
+  Real IB_mag[systemDef.numHrm]=Modelica.ComplexMath.abs(phaseB.i);
+  Real IC_mag[systemDef.numHrm]=Modelica.ComplexMath.abs(phaseC.i);
   Real IA_arg[systemDef.numHrm] = Modelica.ComplexMath.arg(phaseA.i);
   Real IB_arg[systemDef.numHrm] = Modelica.ComplexMath.arg(phaseB.i);
   Real IC_arg[systemDef.numHrm] = Modelica.ComplexMath.arg(phaseC.i);
-  Real VA_mag[systemDef.numHrm] = Modelica.ComplexMath.'abs'(phaseA.v);
-  Real VB_mag[systemDef.numHrm] = Modelica.ComplexMath.'abs'(phaseB.v);
-  Real VC_mag[systemDef.numHrm] = Modelica.ComplexMath.'abs'(phaseC.v);
+  Real VA_mag[systemDef.numHrm]=Modelica.ComplexMath.abs(phaseA.v);
+  Real VB_mag[systemDef.numHrm]=Modelica.ComplexMath.abs(phaseB.v);
+  Real VC_mag[systemDef.numHrm]=Modelica.ComplexMath.abs(phaseC.v);
   Real VA_arg[systemDef.numHrm] = Modelica.ComplexMath.arg(phaseA.v);
   Real VB_arg[systemDef.numHrm] = Modelica.ComplexMath.arg(phaseB.v);
   Real VC_arg[systemDef.numHrm] = Modelica.ComplexMath.arg(phaseC.v);
@@ -41,7 +46,7 @@ model ACDC_3pInverterSimpleGridForming
   Real P_AC(start = P_nom) = -(sum(PA_h[:]) + sum(PB_h[:]) + sum(PC_h[:])) "Total AC power input";
   // DC power output
   Real P_DC = DC_Port.pwr "Total DC power output";
-  
+
 equation
 // AC ouput voltage control: fundamental
   phaseA.v[1].re = vMag_ref * cos(vAngle_ref_A);
@@ -58,7 +63,7 @@ equation
   P_Loss = HPF.PowerConverters.HelperFunctions.homotopyTransition(P_AC, 0, P_ACmin, P_stby, P_nom * (alpha + beta * (P_AC / P_nom) + gamma * (P_AC / P_nom) ^ 2));
 // Energy balance
   P_DC = P_AC + P_Loss;
-  annotation(
+  annotation (
     Documentation(info = "<html><head></head><body>
 <p>Simple 3-phase, grid-forming DC/AC converter (inverter) model. Output is voltage-controlled, with no voltage harmonics.</p><p></p><h3>Harmonics Model</h3><p></p><p>This device operates with zero harmonic voltage distortion and losslessly sinks all current harmonics.</p><h3>Efficiency Model</h3><p>This inverter uses a two-stage efficiency model:</p>
 <p><img src=\"modelica://HPF/Resources/images/PowerConverters/eq_2stagelossmodel.png\"></p>

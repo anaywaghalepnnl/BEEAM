@@ -34,68 +34,68 @@ model ThreePh_Tfmr
     Placement(visible = true, transformation(origin = {110, -92}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
   HPF.Sensors.VoltageSensor vMsr_PhA annotation (
     Placement(visible = true, transformation(origin = {60, -52}, extent = {{-10, -10}, {10, 10}}, rotation = -90)));
-  HPF.Sensors.MultiSensor msrPhA annotation(
+  HPF.Sensors.MultiSensor msrPhA annotation (
     Placement(visible = true, transformation(origin = {-32, 16}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
-  HPF.Sensors.MultiSensor msrPhB annotation(
+  HPF.Sensors.MultiSensor msrPhB annotation (
     Placement(visible = true, transformation(origin = {-66, 0}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
-  HPF.Sensors.MultiSensor msrPhC annotation(
+  HPF.Sensors.MultiSensor msrPhC annotation (
     Placement(visible = true, transformation(origin = {-98, -16}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
 equation
-  connect(voltageSource.pinN, ground.pin) annotation(
+  connect(voltageSource.pinN, ground.pin) annotation (
     Line(points = {{-144, -13}, {-144, -32}}, color = {117, 80, 123}));
-  connect(Laptop_Charger_3.pin_n, Laptop_3.n) annotation(
+  connect(Laptop_Charger_3.pin_n, Laptop_3.n) annotation (
     Line(points = {{142, 52}, {156, 52}, {156, 44}, {168, 44}}, color = {0, 0, 255}));
-  connect(ground3.p, Laptop_3.n) annotation(
+  connect(ground3.p, Laptop_3.n) annotation (
     Line(points = {{168, 38}, {168, 46}}, color = {0, 0, 255}));
-  connect(Laptop_Charger_3.pin_p, Laptop_3.p) annotation(
+  connect(Laptop_Charger_3.pin_p, Laptop_3.p) annotation (
     Line(points = {{142, 68}, {168, 68}}, color = {0, 0, 255}));
-  connect(Laptop_Charger_3.hPin_N, ground6.pin) annotation(
+  connect(Laptop_Charger_3.hPin_N, ground6.pin) annotation (
     Line(points = {{122, 52}, {106, 52}, {106, 41.25}}, color = {117, 80, 123}));
-  connect(Laptop_Charger_5.pin_p, dC_Load2.p) annotation(
+  connect(Laptop_Charger_5.pin_p, dC_Load2.p) annotation (
     Line(points = {{144, -52}, {170, -52}}, color = {0, 0, 255}));
-  connect(Laptop_Charger_5.pin_n, dC_Load2.n) annotation(
+  connect(Laptop_Charger_5.pin_n, dC_Load2.n) annotation (
     Line(points = {{144, -68}, {160, -68}, {160, -76}, {170, -76}}, color = {0, 0, 255}));
-  connect(ground18.p, dC_Load2.n) annotation(
+  connect(ground18.p, dC_Load2.n) annotation (
     Line(points = {{170, -80}, {170, -74}}, color = {0, 0, 255}));
-  connect(Laptop_Charger_4.pin_p, dC_Load1.p) annotation(
+  connect(Laptop_Charger_4.pin_p, dC_Load1.p) annotation (
     Line(points = {{150, 6}, {176, 6}}, color = {0, 0, 255}));
-  connect(Laptop_Charger_4.pin_n, dC_Load1.n) annotation(
+  connect(Laptop_Charger_4.pin_n, dC_Load1.n) annotation (
     Line(points = {{150, -10}, {176, -10}, {176, -14}}, color = {0, 0, 255}));
-  connect(ground16.p, dC_Load1.n) annotation(
+  connect(ground16.p, dC_Load1.n) annotation (
     Line(points = {{176, -20}, {176, -14}}, color = {0, 0, 255}));
-  connect(Laptop_Charger_3.hPin_P, deltaWye.pinSec_A) annotation(
+  connect(Laptop_Charger_3.hPin_P, deltaWye.pinSec_A) annotation (
     Line(points = {{122, 68}, {84, 68}, {84, 19}, {22, 19}}, color = {92, 53, 102}));
-  connect(Laptop_Charger_4.hPin_P, deltaWye.pinSec_B) annotation(
+  connect(Laptop_Charger_4.hPin_P, deltaWye.pinSec_B) annotation (
     Line(points = {{130, 6}, {22, 6}}, color = {92, 53, 102}));
-  connect(deltaWye.pinSec_C, Laptop_Charger_5.hPin_P) annotation(
+  connect(deltaWye.pinSec_C, Laptop_Charger_5.hPin_P) annotation (
     Line(points = {{22, -6}, {98, -6}, {98, -52}, {124, -52}}, color = {92, 53, 102}));
-  connect(ground19.pin, Laptop_Charger_5.hPin_N) annotation(
+  connect(ground19.pin, Laptop_Charger_5.hPin_N) annotation (
     Line(points = {{110, -82}, {110, -68}, {124, -68}, {124, -67.25}}, color = {92, 53, 102}));
-  connect(deltaWye.pinSec_A, vMsr_PhA.pin_p) annotation(
+  connect(deltaWye.pinSec_A, vMsr_PhA.pin_p) annotation (
     Line(points = {{22, 19.2}, {60, 19.2}, {60, -42}}, color = {92, 53, 102}));
-  connect(vMsr_PhA.pin_n, ground2.pin) annotation(
+  connect(vMsr_PhA.pin_n, ground2.pin) annotation (
     Line(points = {{60, -62}, {60, -74}, {86, -74}, {86, -98.75}}, color = {117, 80, 123}));
-  connect(deltaWye.pinSec_N, ground2.pin) annotation(
+  connect(deltaWye.pinSec_N, ground2.pin) annotation (
     Line(points = {{22, -19.2}, {86, -19.2}, {86, -98.75}, {86, -98.75}}, color = {117, 80, 123}));
-  connect(msrPhA.hPin_NC, deltaWye.pinPrim_A) annotation(
+  connect(msrPhA.hPin_NC, deltaWye.pinPrim_A) annotation (
     Line(points = {{-22, 15.8}, {-10, 15.8}}, color = {117, 80, 123}));
-  connect(msrPhA.hPin_PC, voltageSource.pinP_phA) annotation(
+  connect(msrPhA.hPin_PC, voltageSource.pinP_phA) annotation (
     Line(points = {{-42, 16}, {-114, 16}, {-114, 10}, {-131.5, 10}}, color = {92, 53, 102}));
-  connect(msrPhA.hPin_NV, ground.pin) annotation(
+  connect(msrPhA.hPin_NV, ground.pin) annotation (
     Line(points = {{-32, 6}, {-32, -32}, {-144, -32}}, color = {117, 80, 123}));
-  connect(msrPhB.hPin_NC, deltaWye.pinPrim_B) annotation(
+  connect(msrPhB.hPin_NC, deltaWye.pinPrim_B) annotation (
     Line(points = {{-56, 0}, {-10, 0}}, color = {117, 80, 123}));
-  connect(msrPhB.hPin_PC, voltageSource.pinP_phB) annotation(
+  connect(msrPhB.hPin_PC, voltageSource.pinP_phB) annotation (
     Line(points = {{-76, 0}, {-132, 0}}, color = {92, 53, 102}));
-  connect(msrPhB.hPin_NV, ground.pin) annotation(
+  connect(msrPhB.hPin_NV, ground.pin) annotation (
     Line(points = {{-66, -10}, {-66, -32}, {-144, -32}}, color = {117, 80, 123}));
-  connect(msrPhC.hPin_NV, ground.pin) annotation(
+  connect(msrPhC.hPin_NV, ground.pin) annotation (
     Line(points = {{-98, -26}, {-98, -32}, {-144, -32}}, color = {117, 80, 123}));
-  connect(msrPhC.hPin_PC, voltageSource.pinP_phC) annotation(
+  connect(msrPhC.hPin_PC, voltageSource.pinP_phC) annotation (
     Line(points = {{-108, -16}, {-120, -16}, {-120, -10}, {-132, -10}}, color = {92, 53, 102}));
-  connect(msrPhC.hPin_NC, deltaWye.pinPrim_C) annotation(
+  connect(msrPhC.hPin_NC, deltaWye.pinPrim_C) annotation (
     Line(points = {{-88, -16}, {-10, -16}}, color = {117, 80, 123}));
-  connect(Laptop_Charger_4.hPin_N, ground2.pin) annotation(
+  connect(Laptop_Charger_4.hPin_N, ground2.pin) annotation (
     Line(points = {{130, -10}, {114, -10}, {114, -42}, {86, -42}, {86, -100}}, color = {117, 80, 123}));
   annotation (
     Diagram(coordinateSystem(extent = {{-200, -200}, {200, 200}}, initialScale = 0.1), graphics={  Text(origin = {-16, 135}, extent = {{-178, 23}, {178, -23}}, textString = "Simplified 3phase toy model with modified transformer.

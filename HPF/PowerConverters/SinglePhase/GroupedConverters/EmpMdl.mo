@@ -1,5 +1,4 @@
 within HPF.PowerConverters.SinglePhase.GroupedConverters;
-
 model EmpMdl
   extends HPF.SinglePhase.Interface.ACDC_ConverterBase;
   extends HPF.PowerConverters.Partials.HarmonicModel_Interp;
@@ -22,9 +21,9 @@ model EmpMdl
   /*
           Measurements
       */
-  Real I_mag[systemDef.numHrm] = Modelica.ComplexMath.'abs'(loadBase.i);
+  Real I_mag[systemDef.numHrm]=Modelica.ComplexMath.abs(loadBase.i);
   Real I_arg[systemDef.numHrm] = Modelica.ComplexMath.arg(loadBase.i);
-  Real V_mag[systemDef.numHrm] = Modelica.ComplexMath.'abs'(loadBase.v);
+  Real V_mag[systemDef.numHrm]=Modelica.ComplexMath.abs(loadBase.v);
   Real V_arg[systemDef.numHrm] = Modelica.ComplexMath.arg(loadBase.v);
   Real P_h[systemDef.numHrm] = loadBase.v[:].re .* loadBase.i[:].re + loadBase.v[:].im .* loadBase.i[:].im "Real power at harmonics";
   // intermediary variables
@@ -34,20 +33,20 @@ model EmpMdl
   Modelica.Blocks.Interfaces.RealOutput PLoss annotation (
     Placement(visible = true, transformation(origin = {10, 60}, extent = {{-10, -10}, {10, 10}}, rotation = 0), iconTransformation(origin = {24, 142},extent = {{-10, -10}, {10, 10}}, rotation = 90)));
 
-protected
-  
   // Power axis lookup is now normalized to nominal power (nomP) and magnitude output must be scaled by nominal current (nomI)
-    
-    
-  
-  Real argS1 = -HPF.Utilities.interpolateBilinear(mdl_H, mdl_P_h1, mdl_Z_arg, 1, (P1/nomP))"Phase angle for fundamental apparent power";
-  
+
+
+
+protected
+  Real argS1 = -HPF.Utilities.interpolateBilinear(mdl_H, mdl_P_h1, mdl_Z_arg, 1, (P1/nomP))
+                                                                                           "Phase angle for fundamental apparent power";
+
   // Query arg interplation in 2D at harmonics h>1, at power level P
   Real arg_hh[systemDef.numHrm - 1] = {HPF.Utilities.interpolateBilinear(mdl_H, mdl_P_h1, mdl_Z_arg, systemDef.hrms[i], (P1/nomP)) for i in 2:1:systemDef.numHrm};
-  
+
   // Query mag interplation in 2D at harmonics h>1, at power level P
   Real c[systemDef.numHrm - 1] = {HPF.Utilities.interpolateBilinear(mdl_H, mdl_P_h1, mdl_Z_mag, systemDef.hrms[i], (P1/nomP))*nomI*numConvs for i in 2:1:systemDef.numHrm};
-  
+
   // Apply phase correction
   Real argAdj[systemDef.numHrm - 1] = arg_hh[:] + Modelica.ComplexMath.arg(loadBase.v[1]) .* systemDef.hrms[2:end];
   // intermediary variables for higher current harmonics
@@ -82,8 +81,8 @@ equation
   */
   loadBase.i[2:1:systemDef.numHrm] = {c[i] * a[i] for i in 1:systemDef.numHrm - 1};
   PLoss = P*numConvs - P_DC;
-  
-annotation(
+
+annotation (
     Icon(graphics = {Text(origin = {63, -130}, extent = {{-143, 10}, {143, -10}}, textString = "Converters=%numConvs", horizontalAlignment = TextAlignment.Left), Rectangle(origin = {15.58, -0.75}, pattern = LinePattern.Dash, extent = {{-115, 180.22}, {115, -180.22}}), Line(origin = {14.8013, 15.2237}, points = {{-101, 85}, {-101, 101}, {101, 101}, {101, -101}, {87, -101}}), Line(origin = {29.8698, 31.5593}, points = {{-101, 85}, {-101, 101}, {101, 101}, {101, -101}, {87, -101}}), Text(origin = {87, 149}, extent = {{-73, 15}, {73, -15}}, textString = "Ploss"), Text(origin = {22, -60}, lineColor = {92, 53, 102}, extent = {{-184, -120}, {176, -160}}, textString = "%name")}, coordinateSystem(extent = {{-100, -180}, {130, 180}})),
     Diagram(coordinateSystem(extent = {{-100, -180}, {130, 180}})));
 end EmpMdl;

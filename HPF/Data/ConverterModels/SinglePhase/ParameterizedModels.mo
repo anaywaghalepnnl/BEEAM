@@ -1,5 +1,4 @@
 within HPF.Data.ConverterModels.SinglePhase;
-
 package ParameterizedModels
   extends Modelica.Icons.RecordsPackage;
 
@@ -13,6 +12,6 @@ package ParameterizedModels
     parameter Real beta = 1.0 annotation (Dialog(group = "Converter efficiency model"));
     parameter Real gamma = 1.0 annotation (Dialog(group = "Converter efficiency model"));
   end CustomModelData;
-  annotation(
+  annotation (
     Documentation(info = "<html><head></head><body>Model data (in the form of Modelica Records) for converter parameterized model. Please refer to [?] for more information on the model and parameter extraction.</body></html>"));
 end ParameterizedModels;

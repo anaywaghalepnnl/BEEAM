@@ -1,23 +1,23 @@
 within HPF.PowerConverters.SinglePhase;
-
 model ACDC_1pRectifierSimple
   extends HPF.PowerConverters.SinglePhase.ACDC_1pConverterBase;
   import Modelica.ComplexMath.j;
   // Loss model parameters
-  parameter Real alpha = 0.0 "Loss model constant term (per-unit)" annotation(
+  parameter Real alpha = 0.0 "Loss model constant term (per-unit)" annotation (
     Dialog(group = "Converter Loss Model"));
-  parameter Real beta = 0.1 "Loss model linear term (per-unit)" annotation(
+  parameter Real beta = 0.1 "Loss model linear term (per-unit)" annotation (
     Dialog(group = "Converter Loss Model"));
-  parameter Real gamma = 0.0 "Loss model quadratic term (per-unit)" annotation(
+  parameter Real gamma = 0.0 "Loss model quadratic term (per-unit)" annotation (
     Dialog(group = "Converter Loss Model"));
-  parameter Modelica.SIunits.Power P_stby = 0 "Standby (no load) loss" annotation(
-    Dialog(group = "Converter Loss Model"));
-  parameter Modelica.SIunits.Power P_DCmin = 0.5 "Minimum output power (2-stage loss model)" annotation(
-    Dialog(group = "Converter Loss Model"));
+  parameter Modelica.Units.SI.Power P_stby=0 "Standby (no load) loss"
+    annotation (Dialog(group="Converter Loss Model"));
+  parameter Modelica.Units.SI.Power P_DCmin=0.5
+    "Minimum output power (2-stage loss model)"
+    annotation (Dialog(group="Converter Loss Model"));
   // AC measurements
-  Real I_mag[systemDef.numHrm] = Modelica.ComplexMath.'abs'(phaseLN.i);
+  Real I_mag[systemDef.numHrm]=Modelica.ComplexMath.abs(phaseLN.i);
   Real I_arg[systemDef.numHrm] = Modelica.ComplexMath.arg(phaseLN.i);
-  Real V_mag[systemDef.numHrm] = Modelica.ComplexMath.'abs'(phaseLN.v);
+  Real V_mag[systemDef.numHrm]=Modelica.ComplexMath.abs(phaseLN.v);
   Real V_arg[systemDef.numHrm] = Modelica.ComplexMath.arg(phaseLN.v);
   // Reactive power at fundamental
   Real P1(start = P_nom) "Real power at fundamental";
@@ -45,8 +45,7 @@ equation
 // Current injections: harmonics h > 1
   phaseLN.i[2:1:systemDef.numHrm] = {Complex(0, 0) for i in 1:systemDef.numHrm - 1};
 // Annotation
-  annotation(
-    Icon,
+  annotation (
     Documentation(info = "<html><head></head><body>
 <p>Simple single-phase AC/DC converter (rectifier) model.</p><p><h3>Harmonics Model</h3></p><p>This device operates with zero harmonic distortion and unity power factor. Harmonic currents are zero for all h &gt; 1.</p><h3>Efficiency Model</h3><p>This device uses a two-stage efficiency model:</p>
 <p><img src=\"modelica://HPF/Resources/images/PowerConverters/eq_2stagelossmodel.png\"></p>

@@ -27,38 +27,37 @@ model Test_1
     Placement(visible = true, transformation(origin = {40, -36}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
   HPF.Sensors.CurrentSensor currentSensor annotation (
     Placement(visible = true, transformation(origin = {-32, -18}, extent = {{-10, -10}, {10, 10}}, rotation = -90)));
-  HPF.Sensors.MultiSensor multiSensor annotation(
+  HPF.Sensors.MultiSensor multiSensor annotation (
     Placement(visible = true, transformation(origin = {8, -48}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
 equation
-  connect(v.pin_n, ground1.pin) annotation(
+  connect(v.pin_n, ground1.pin) annotation (
     Line(points = {{-120, -20}, {-120, -36.75}}, color = {117, 80, 123}));
-  connect(laptop_adapter.pin_n, ground2.p) annotation(
+  connect(laptop_adapter.pin_n, ground2.p) annotation (
     Line(points = {{78, -64}, {78, -90}}, color = {0, 0, 255}));
-  connect(laptop_adapter.pin_p, laptop.p) annotation(
+  connect(laptop_adapter.pin_p, laptop.p) annotation (
     Line(points = {{78, -48}, {100, -48}}, color = {0, 0, 255}));
-  connect(laptop.n, ground2.p) annotation(
+  connect(laptop.n, ground2.p) annotation (
     Line(points = {{100, -68}, {100, -84}, {78, -84}, {78, -88}}, color = {0, 0, 255}));
-  connect(z1.pin_n, ground4.pin) annotation(
+  connect(z1.pin_n, ground4.pin) annotation (
     Line(points = {{102, 8}, {134, 8}, {134, -32.75}}, color = {117, 80, 123}));
-  connect(r.pin_n, z1.pin_p) annotation(
+  connect(r.pin_n, z1.pin_p) annotation (
     Line(points = {{-68, 8}, {82, 8}}, color = {117, 80, 123}));
-  connect(r.pin_p, v.pin_p) annotation(
+  connect(r.pin_p, v.pin_p) annotation (
     Line(points = {{-88, 8}, {-122, 8}, {-122, 0}, {-120, 0}}, color = {92, 53, 102}));
-  connect(voltageSensor.pin_p, z1.pin_p) annotation(
+  connect(voltageSensor.pin_p, z1.pin_p) annotation (
     Line(points = {{40, 2}, {40, 8}, {82, 8}}, color = {92, 53, 102}));
-  connect(voltageSensor.pin_n, ground3.pin) annotation(
+  connect(voltageSensor.pin_n, ground3.pin) annotation (
     Line(points = {{40, -18}, {40, -26}}, color = {117, 80, 123}));
-  connect(currentSensor.pin_p, r.pin_n) annotation(
+  connect(currentSensor.pin_p, r.pin_n) annotation (
     Line(points = {{-32, -8}, {-32, 8}, {-68, 8}}, color = {92, 53, 102}));
-  connect(laptop_adapter.hPin_N, ground.pin) annotation(
+  connect(laptop_adapter.hPin_N, ground.pin) annotation (
     Line(points = {{58, -64}, {8, -64}, {8, -80}}, color = {117, 80, 123}));
-  connect(multiSensor.hPin_NC, laptop_adapter.hPin_P) annotation(
+  connect(multiSensor.hPin_NC, laptop_adapter.hPin_P) annotation (
     Line(points = {{18, -48}, {58, -48}}, color = {117, 80, 123}));
-  connect(multiSensor.hPin_PC, currentSensor.pin_n) annotation(
+  connect(multiSensor.hPin_PC, currentSensor.pin_n) annotation (
     Line(points = {{-2, -48}, {-32, -48}, {-32, -28}}, color = {92, 53, 102}));
-  connect(multiSensor.hPin_NV, ground.pin) annotation(
+  connect(multiSensor.hPin_NV, ground.pin) annotation (
     Line(points = {{8, -58}, {8, -80}}, color = {117, 80, 123}));
-protected
   annotation (
     Icon(coordinateSystem(grid = {0, 0}, extent = {{-200, -200}, {200, 200}})),
     Diagram(coordinateSystem(grid = {0, 0}, extent = {{-200, -200}, {200, 200}})),

@@ -476,7 +476,7 @@ equation
   connect(nEC_CableModel6.pin_p, nEC_CableModel11.pin_p) annotation (Line(
         points={{-38,84},{4,84},{4,-86},{-36,-86}}, color={92,53,102}));
   annotation (
-    uses(HPF(version="0.1.0-beta"), Modelica(version="4.0.0")),
+    uses(HPF(version="0.1.0-beta"), Modelica(version="3.2.3")),
     experiment(
       StartTime=27216000,
       StopTime=27734400,

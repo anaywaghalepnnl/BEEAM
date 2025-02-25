@@ -2,7 +2,7 @@ within HPF.Sources.ThreePhase;
 model VoltageSource "Three phase voltage source. Specify parameters as a Modelica vector {x1, x2, ...}."
   outer SystemDef systemDef;
   HPF.SinglePhase.Interface.HPin_P pinP_phA(h = systemDef.numHrm)  annotation (
-    Placement(visible = true, transformation(origin={100,80},    extent = {{-10, -10}, {10, 10}}, rotation = 0), iconTransformation(origin={100,80},    extent = {{-10, -10}, {10, 10}}, rotation = 0)));
+    Placement(visible = true, transformation(origin={0.0,0.0},    extent = {{90.0,50.0},{110.0,70.0}}, rotation = 0.0), iconTransformation(origin={100,80},    extent = {{-10, -10}, {10, 10}}, rotation = 0)));
   HPF.SinglePhase.Interface.HPin_P pinP_phB(h = systemDef.numHrm)  annotation (
     Placement(visible = true, transformation(origin = {102, 0}, extent = {{-10, -10}, {10, 10}}, rotation = 0), iconTransformation(origin={100,0},     extent = {{-10, -10}, {10, 10}}, rotation = 0)));
   HPF.SinglePhase.Interface.HPin_P pinP_phC(h = systemDef.numHrm)  annotation (
@@ -16,23 +16,23 @@ model VoltageSource "Three phase voltage source. Specify parameters as a Modelic
   HPF.SinglePhase.Sources.VoltageSource vSrc_phB(vMag = vMag_phB[1:systemDef.numHrm], vArg = vArg_phB[1:systemDef.numHrm]) annotation (
     Placement(visible = true, transformation(origin = {-10, 0}, extent = {{-10, -10}, {10, 10}}, rotation = 180)));
 
-  parameter Modelica.SIunits.Voltage vMag_phA[:] = {1} "Phase A magnitude";
+  parameter Modelica.Units.SI.Voltage vMag_phA[:]={1} "Phase A magnitude";
   parameter Real vArg_phA[:] = {1} "Phase A angle";
-  parameter Modelica.SIunits.Voltage vMag_phB[:] = {1} "Phase B magnitude";
+  parameter Modelica.Units.SI.Voltage vMag_phB[:]={1} "Phase B magnitude";
   parameter Real vArg_phB[:] = {1} "Phase B angle";
-  parameter Modelica.SIunits.Voltage vMag_phC[:] = {1} "Phase C magnitude";
+  parameter Modelica.Units.SI.Voltage vMag_phC[:]={1} "Phase C magnitude";
   parameter Real vArg_phC[:] = {1} "Phase C angle";
-                    Modelica.Blocks.Interfaces.RealOutput P annotation(
+                    Modelica.Blocks.Interfaces.RealOutput P annotation (
     Placement(visible = true, transformation(origin = {-102, 68}, extent = {{-10, -10}, {10, 10}}, rotation = 0), iconTransformation(origin = {0, 110}, extent = {{-10, -10}, {10, 10}}, rotation = 90)));
 
-  
+
 //protected
 equation
   P = sum(vSrc_phA.v[:].re .* vSrc_phA.i[:].re + vSrc_phA.v[:].im .* vSrc_phA.i[:].im) +
     sum(vSrc_phB.v[:].re .* vSrc_phB.i[:].re + vSrc_phB.v[:].im .* vSrc_phB.i[:].im) +
     sum(vSrc_phC.v[:].re .* vSrc_phC.i[:].re + vSrc_phC.v[:].im .* vSrc_phC.i[:].im);
   connect(vSrc_phA.pin_p, pinP_phA) annotation (
-    Line(points={{0,60},{98,60},{98,80},{100,80}},          color = {92, 53, 102}));
+    Line(points={{0,60},{100,60}},          color = {92, 53, 102}));
   connect(vSrc_phA.pin_n, pinN) annotation (
     Line(points = {{-20, 60}, {-60, 60}, {-60, -80}, {100, -80}, {100, -80}}, color = {117, 80, 123}));
   connect(vSrc_phC.pin_p, pinP_phC) annotation (

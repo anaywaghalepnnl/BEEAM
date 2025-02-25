@@ -1,10 +1,9 @@
 within HPF.PowerConverters.SinglePhase;
-
 model ACDC_ParameterizedMdl "AC to DC converter parameterized harmonic model"
   extends HPF.SinglePhase.Interface.ACDC_ConverterBase;
   extends HPF.PowerConverters.Partials.HarmonicModel_Parameterized;
   import Modelica.ComplexMath.j;
-  
+
   /*
           Fundamental power drawn on the AC harmonic side.
           Using converter efficiency model
@@ -19,16 +18,16 @@ model ACDC_ParameterizedMdl "AC to DC converter parameterized harmonic model"
   /*
           Measurements
       */
-  Real I_mag[systemDef.numHrm] = Modelica.ComplexMath.'abs'(loadBase.i);
+  Real I_mag[systemDef.numHrm]=Modelica.ComplexMath.abs(loadBase.i);
   Real I_arg[systemDef.numHrm] = Modelica.ComplexMath.arg(loadBase.i);
-  Real V_mag[systemDef.numHrm] = Modelica.ComplexMath.'abs'(loadBase.v);
+  Real V_mag[systemDef.numHrm]=Modelica.ComplexMath.abs(loadBase.v);
   Real V_arg[systemDef.numHrm] = Modelica.ComplexMath.arg(loadBase.v);
   Real P_h[systemDef.numHrm] = loadBase.v[:].re .* loadBase.i[:].re + loadBase.v[:].im .* loadBase.i[:].im "Real power at harmonics";
   // intermediary variables
   Real P1(start = nomP) "Real power at fundamental";
   Real S1(start = nomP) "Apparent power at fundamental";
   Real Q1(start = 1) "Imaginary power at fundamental";
-  Modelica.Blocks.Interfaces.RealOutput PLoss annotation(
+  Modelica.Blocks.Interfaces.RealOutput PLoss annotation (
     Placement(visible = true, transformation(origin = {10, 60}, extent = {{-10, -10}, {10, 10}}, rotation = 0), iconTransformation(origin = {0, 110},extent = {{-10, -10}, {10, 10}}, rotation = 90)));
 protected
   Real argS1 = - HPF.PowerConverters.HelperFunctions.harmonicPhaseAngleModel(phAngModelParams, 1, P1) "Phase angle for fundamental apparent power";
@@ -39,7 +38,7 @@ protected
   Real arg_hh[systemDef.numHrm - 1] = HPF.PowerConverters.HelperFunctions.harmonicPhaseAngleModel(phAngModelParams, systemDef.hrms[2:end], P1);
   // Querry mag interplation in 2D at harmonics h>1, at power level P
   Real c[systemDef.numHrm - 1] = HPF.PowerConverters.HelperFunctions.harmonicMagnitudeModel(magModelParams, systemDef.hrms[2:end], P1);
-  
+
   // Apply phase correction
   Real argAdj[systemDef.numHrm - 1] = arg_hh[:] + Modelica.ComplexMath.arg(loadBase.v[1]) .* systemDef.hrms[2:end];
   // intermediary variables for higher current harmonics
@@ -75,7 +74,7 @@ equation
   */
   loadBase.i[2:1:systemDef.numHrm] = {c[i] * a[i] for i in 1:systemDef.numHrm - 1};
   PLoss = P - P_DC;
-  annotation(
+  annotation (
     Icon(coordinateSystem(preserveAspectRatio = false), graphics = {Text(origin = {4, 0}, lineColor = {92, 53, 102}, extent = {{-184, -120}, {176, -160}}, textString = "%name"), Text(origin = {70, 115}, extent = {{-54, 15}, {54, -15}}, textString = "Ploss")}),
     Diagram(coordinateSystem(preserveAspectRatio = false)),
     Documentation(info = "<html><head></head><body><h4>Converter harmonic model</h4>

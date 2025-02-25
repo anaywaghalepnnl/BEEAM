@@ -1,7 +1,7 @@
 within HPF.Templates;
 model ACConverterwLoads
   //   parameter Integer nStepDown=modelData.nStepDown;
-  parameter Integer nConverter;
+  parameter Integer nConverter = modelData.nConverter;
 
   replaceable HPF.Templates.LoadwStepDown loadwStepDown[modelData.nStepDown]
     annotation(Placement(transformation(extent={{20,30},{40,50}})));
@@ -19,7 +19,7 @@ model ACConverterwLoads
     annotation(Placement(visible = true,
       transformation(extent={{-56.25,-35},{-36.25,-15}})));
   replaceable parameter Data.ACConverterwLoads modelData
-    annotation (Placement(transformation(extent={{60,60},{80,80}})));
+    annotation (Placement(transformation(extent={{60.0,60.0},{80.0,80.0}},rotation = 0.0,origin = {0.0,0.0})));
 
   DC.Ground ground1
     annotation (Placement(transformation(extent={{0,-40},{20,-20}})));
@@ -64,6 +64,7 @@ model ACConverterwLoads
     annotation (Placement(transformation(extent={{-98,28},{-78,48}})));
   SinglePhase.Components.Terminate terminate
     annotation(Placement(transformation(extent={{-80,0},{-60,20}})));
+    .HPF.Cables.NEC_CableModel nEC_CableModel(wireGaugeAC = HPF.Types.WireGaugeAC.gauge_12,length = 60) annotation(Placement(transformation(extent = {{-70,40},{-50,60}},origin = {0,0},rotation = 0)));
 equation
   for i in 1:modelData.nConverter loop
     if i>1 then
@@ -85,14 +86,12 @@ equation
            color={0,0,255}));
      end for;
     end if;
-    connect(deltaWye.pinSec_A, aCDC_ConverterBase[i].hPin_P)
-      annotation (Line(points={{-78,50},{-46,50},{-46,38},{-40,38}},
-        color={92,53,102}));
   connect(aCDC_ConverterBase[i].hPin_N, ground.pin)
     annotation (Line(points={{-40,22},{-46,22},{-46,-15},{-46.25,-15}},
       color={117,80,123}));
   connect(aCDC_ConverterBase[i].pin_n, ground1.p)
     annotation (Line(points={{-20,22},{10,22},{10,-20}}, color={0,0,255}));
+  connect(nEC_CableModel.pin_n,aCDC_ConverterBase[i].hPin_P) annotation(Line(points = {{-50,50},{-45,50},{-45,38},{-40,38}},color = {117,80,123}));
   end for;
   connect(resistor11.n, PoE_cable.p)
     annotation (Line(points={{-10,70},{0,70}}, color={0,0,255}));
@@ -113,6 +112,7 @@ equation
           {-74,34},{-74,8.57143},{-72.8571,8.57143}},   color={92,53,102}));
   connect(deltaWye.pinSec_B, terminate.hPin_P) annotation (Line(points={{-78,42},
           {-74,42},{-74,8.57143},{-72.8571,8.57143}},   color={92,53,102}));
+    connect(deltaWye.pinSec_A,nEC_CableModel.pin_p) annotation(Line(points = {{-78,50},{-70,50}},color = {92,53,102}));
     annotation(Icon(coordinateSystem(preserveAspectRatio = false,extent={{-100,-100},
             {100,100}}),                                                                                   graphics={                                                                                                                            Text(lineColor={0,0,255},extent={{-150,150},{150,110}},textString
             =                                                                                                                                                                                                        "%name")}),

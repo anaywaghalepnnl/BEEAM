@@ -136,7 +136,7 @@ equation
     Line(points = {{53, 86}, {10, 86}, {10, 16}, {-86, 16}}, color = {92, 53, 102}));
   connect(Heater_1C.hPin_P, deltaWye.pinSec_C) annotation (
     Line(points={{51,-60},{-24,-60},{-24,-2},{-24,-2},{-24,0},{-86,0},{-86,0}},                color = {92, 53, 102}));
-  connect(Heater_1B.hPin_P, deltaWye.pinSec_B) annotation(
+  connect(Heater_1B.hPin_P, deltaWye.pinSec_B) annotation (
     Line(points = {{146, 14}, {122, 14}, {122, -28}, {20, -28}, {20, 8}, {-86, 8}, {-86, 8}}, color = {92, 53, 102}));
   annotation (
     Diagram(coordinateSystem(extent = {{-280, -220}, {260, 240}}, initialScale = 0.1), graphics={Text(lineColor = {28, 108, 200}, extent = {{-256, 182}, {366, 100}}, textString = "Data Set 3.3

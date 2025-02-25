@@ -14,7 +14,7 @@ clc
 
 % Device data source directory
 %dataDirectory = fullfile('.', 'Example Data', deviceName, 'Processed Data');
-dataDirectory = fullfile('/Users/wagh847/gitlab/BEEAM/Scripts/Converter Empirical Model Fitting/Example Data/LCM-50ACPCU/Processed Data');
+dataDirectory = fullfile('/Users/wagh847/Library/CloudStorage/OneDrive-PNNL/Anay/Projects/#designfordc/Model Data/LED Driver/Processed Data');
 %dataDirectory = fullfile('/Users/wagh847/Library/CloudStorage/OneDrive-PNNL/Anay/Projects/PoE systems/Model Data/PoE Driver')
 % Device ratings
 Pnom = 29;          % W

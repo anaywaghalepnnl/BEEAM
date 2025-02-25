@@ -15,18 +15,38 @@ model SinglePhase_Transformer
     Placement(visible = true, transformation(origin={-24, 50},    extent = {{-10, -10}, {10, 10}}, rotation = 0)));
   HPF.SinglePhase.Components.Ground ground2 annotation (
     Placement(visible = true, transformation(origin={18, 10},     extent = {{-10, -10}, {10, 10}}, rotation = 0)));
-  Modelica.Electrical.QuasiStationary.SinglePhase.Ideal.IdealTransformer T_Quasi(n = 480 / 208)  annotation (
-    Placement(visible = true, transformation(origin = {8, -26}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
-  Modelica.Electrical.QuasiStationary.SinglePhase.Sources.VoltageSource vSrc_Quasi(V = 480, f = 60, phi = 0)  annotation (
-    Placement(visible = true, transformation(origin = {-46, -26}, extent = {{-10, -10}, {10, 10}}, rotation = -90)));
-  Modelica.Electrical.QuasiStationary.SinglePhase.Basic.Ground ground annotation (
-    Placement(visible = true, transformation(origin = {-46, -54}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
-  Modelica.Electrical.QuasiStationary.SinglePhase.Basic.Impedance impedance(Z_ref = 1 + 0 * j)  annotation (
-    Placement(visible = true, transformation(origin = {-22, -16}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
-  Modelica.Electrical.QuasiStationary.SinglePhase.Basic.Impedance impedance1(Z_ref = 10 + 5 * j)  annotation (
-    Placement(visible = true, transformation(origin = {50, -16}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
-  Modelica.Electrical.QuasiStationary.SinglePhase.Basic.Ground ground5 annotation (
-    Placement(visible = true, transformation(origin = {24, -54}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
+  Modelica.Electrical.QuasiStatic.SinglePhase.Ideal.IdealTransformer T_Quasi(n=
+        480/208) annotation (Placement(visible=true, transformation(
+        origin={8,-26},
+        extent={{-10,-10},{10,10}},
+        rotation=0)));
+  Modelica.Electrical.QuasiStatic.SinglePhase.Sources.VoltageSource vSrc_Quasi(
+    V=480,
+    f=60,
+    phi=0) annotation (Placement(visible=true, transformation(
+        origin={-46,-26},
+        extent={{-10,-10},{10,10}},
+        rotation=-90)));
+  Modelica.Electrical.QuasiStatic.SinglePhase.Basic.Ground ground annotation (
+      Placement(visible=true, transformation(
+        origin={-46,-54},
+        extent={{-10,-10},{10,10}},
+        rotation=0)));
+  Modelica.Electrical.QuasiStatic.SinglePhase.Basic.Impedance impedance(Z_ref=1
+         + 0*j) annotation (Placement(visible=true, transformation(
+        origin={-22,-16},
+        extent={{-10,-10},{10,10}},
+        rotation=0)));
+  Modelica.Electrical.QuasiStatic.SinglePhase.Basic.Impedance impedance1(Z_ref=
+        10 + 5*j) annotation (Placement(visible=true, transformation(
+        origin={50,-16},
+        extent={{-10,-10},{10,10}},
+        rotation=0)));
+  Modelica.Electrical.QuasiStatic.SinglePhase.Basic.Ground ground5 annotation (
+      Placement(visible=true, transformation(
+        origin={24,-54},
+        extent={{-10,-10},{10,10}},
+        rotation=0)));
 equation
   connect(vSrc_HPF.pin_n, ground1.pin) annotation (
     Line(points={{-48,30},{-48,21.25}},   color = {117, 80, 123}));

@@ -5,6 +5,7 @@ record LoadwStepDown
   parameter Integer nLoad=1;
   parameter String loadNames[nLoad]=fill("", nLoad);
   parameter String stepDownName="";
+  parameter Real Pnom[nLoad]=fill(1, nLoad);
 
   //Resistance parameters
   parameter Modelica.Units.SI.Resistance R[nLoad]=fill(1, nLoad)

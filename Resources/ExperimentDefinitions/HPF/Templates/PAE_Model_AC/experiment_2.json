@@ -18,7 +18,7 @@
             "ncp" : 500
           },
           "solverOptions" : {
-            "store_event_points" : true
+            "tolerance" : 0.1
           },
           "compilerOptions" : {
             "c_compiler" : "gcc",
@@ -47,7 +47,7 @@
   },
   "metadata" : {
     "created" : "2024-07-05 18:47:31.599053687",
-    "lastModified" : "2024-07-05T18:47:57.778430502Z",
+    "lastModified" : "2024-10-25T21:28:56.529135074Z",
     "name" : "Experiment 2"
   }
 }

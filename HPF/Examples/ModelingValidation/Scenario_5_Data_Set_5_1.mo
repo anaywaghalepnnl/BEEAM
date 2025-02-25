@@ -34,11 +34,11 @@ model Scenario_5_Data_Set_5_1
     Placement(visible = true, transformation(origin = {74, 98}, extent = {{-10, -10}, {10, 10}}, rotation = -90)));
   HPF.DC.DC2DC_Converters.StepDown LaptopCharger_4(modelData = laptop_18V_90W_LapChrg4) annotation (
     Placement(visible = true, transformation(origin = {44, 98}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
-  parameter HPF.Data.ConverterModels.DC2DC_StepDown.Laptop_18V_90W_LapChrg4 laptop_18V_90W_LapChrg4 annotation(
+  parameter HPF.Data.ConverterModels.DC2DC_StepDown.Laptop_18V_90W_LapChrg4 laptop_18V_90W_LapChrg4 annotation (
     Placement(visible = true, transformation(origin = {174, 90}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
-  parameter HPF.Data.ConverterModels.DC2DC_StepDown.Laptop_18V_90W_LapChrg5 laptop_18V_90W_LapChrg5 annotation(
+  parameter HPF.Data.ConverterModels.DC2DC_StepDown.Laptop_18V_90W_LapChrg5 laptop_18V_90W_LapChrg5 annotation (
     Placement(visible = true, transformation(origin = {178, 56}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
-  parameter HPF.Data.ConverterModels.DC2DC_StepDown.Laptop_18V_90W_LapChrg6 laptop_18V_90W_LapChrg6 annotation(
+  parameter HPF.Data.ConverterModels.DC2DC_StepDown.Laptop_18V_90W_LapChrg6 laptop_18V_90W_LapChrg6 annotation (
     Placement(visible = true, transformation(origin = {176, 12}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
 equation
   connect(voltageSource.pinN, ground.pin) annotation (

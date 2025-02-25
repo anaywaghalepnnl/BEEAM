@@ -5,6 +5,7 @@ partial model Interface
   // ModelData. The object name will have the appropriate fields.
 
 
+  //parameter Data.ConverterModels.DC2DC_StepDown.ModelData modelData
   parameter Data.ConverterModels.DC2DC_StepDown.ModelData modelData
     annotation (Placement(transformation(extent={{60,72},{80,92}})));
   parameter String name="";

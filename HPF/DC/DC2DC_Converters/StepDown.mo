@@ -1,5 +1,4 @@
 within HPF.DC.DC2DC_Converters;
-
 model StepDown
   /*
       This model builds upon the Analog sublubrary from the Modelica Std Library.
@@ -7,12 +6,7 @@ model StepDown
       Input port: v1, i1 
       Output port: v2, i2
     */
-  extends Modelica.Electrical.Analog.Interfaces.TwoPort;
-  // One can pass the name of the object, here the object is of the class (or record)
-  // ModelData. The object name will have the appropriate fields.
-  parameter HPF.Data.ConverterModels.DC2DC_StepDown.ModelData modelData "Converter model data record";
-  Modelica.Blocks.Interfaces.RealOutput PLoss = abs(v1*i1) - abs(v2*i2) annotation(
-    Placement(visible = true, transformation(origin = {-108, 116}, extent = {{-10, -10}, {10, 10}}, rotation = 0), iconTransformation(origin = {0, 148}, extent = {{-10, -10}, {10, 10}}, rotation = 90)));
+  extends HPF.DC.DC2DC_Converters.Interface;
 equation
 /*
   Converter output voltage will be dependent on the input voltage?
@@ -34,14 +28,15 @@ equation
   we got to set the i2, i2 = -i1 / D;
   */
   v2 = modelData.V;
+  PPri = v1*i1;
 /*
   Efficiency modeling
   Pin = Pout + alpha + beta*Pout + gamma*Pout^2
   effi = Pout / Pin
   */
-  v1 * i1 = v2 * abs(i2) + modelData.Pnom*(modelData.alpha + (v2 * abs(i2)/modelData.Pnom)* modelData.beta + modelData.gamma * (v2 * i2/modelData.Pnom) ^ 2);
-  annotation(
-    Icon(coordinateSystem(initialScale = 0.1), graphics = {Rectangle(origin = {0, -1}, extent = {{-90, 139}, {90, -139}}), Line(origin = {-56.3552, 13.1638}, points = {{-13, 0}, {27, 0}}), Line(origin = {-56.6, -11.5877}, points = {{-13, 0}, {27, 0}}, pattern = LinePattern.Dash), Line(origin = {7.77913, 28.8419}, points = {{-49, -90}, {35, 34}}), Line(origin = {42.1208, 13.1638}, points = {{-13, 0}, {27, 0}}), Line(origin = {41.876, -11.5877}, points = {{-13, 0}, {27, 0}}, pattern = LinePattern.Dash), Text(origin = {0, -240}, lineColor = {92, 53, 102}, extent = {{-180, 60}, {180, 100}}, textString = "%name"), Text(origin = {182, 78}, extent = {{-180, 60}, {-86, 82}}, textString = "PLoss")}),
+  PPri = v2 * abs(i2) + (modelData.Pnom)*(modelData.alpha + (modelData.beta * (v2 * abs(i2)/modelData.Pnom)) + (modelData.gamma * (v2 * i2/modelData.Pnom) ^ 2));
+  annotation (
+    Icon(coordinateSystem(initialScale = 0.1), graphics={  Rectangle(origin = {0, -1}, extent = {{-90, 139}, {90, -139}}), Line(origin = {-56.3552, 13.1638}, points = {{-13, 0}, {27, 0}}), Line(origin = {-56.6, -11.5877}, points = {{-13, 0}, {27, 0}}, pattern = LinePattern.Dash), Line(origin = {7.77913, 28.8419}, points = {{-49, -90}, {35, 34}}), Line(origin = {42.1208, 13.1638}, points = {{-13, 0}, {27, 0}}), Line(origin = {41.876, -11.5877}, points = {{-13, 0}, {27, 0}}, pattern = LinePattern.Dash), Text(origin = {0, -240}, lineColor = {92, 53, 102}, extent = {{-180, 60}, {180, 100}}, textString = "%name"), Text(origin = {182, 78}, extent = {{-180, 60}, {-86, 82}}, textString = "PLoss")}),
     Diagram(coordinateSystem(extent = {{-200, -200}, {200, 200}}, grid = {0, 0})),
     Documentation(info = "<html>
 <p>DC to DC step down (buck) converter. Converter efficiency is modeled using a quadratic loss model. </p>

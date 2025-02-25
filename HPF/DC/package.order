@@ -3,4 +3,6 @@ Interface
 DC_Load
 Variable_DC_Load
 Ground
+DummyOnePort
 DC_Port
+DCLoadTypes

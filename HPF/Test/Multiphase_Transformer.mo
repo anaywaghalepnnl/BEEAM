@@ -11,7 +11,7 @@ model Multiphase_Transformer
     Placement(visible = true, transformation(origin = {94, 18}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
   HPF.SinglePhase.Components.Resistor r2(r = 500) annotation (
     Placement(visible = true, transformation(origin = {94, 2}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
-  HPF.SinglePhase.Components.Impedance z(z = 500 + 0 * j) annotation (
+  HPF.SinglePhase.Components.Impedance z(z = 500) annotation (
     Placement(visible = true, transformation(origin = {94, 34}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
   HPF.Sources.ThreePhase.VoltageSource voltageSource(vArg_phA = {0.52192, 6.1952, 3.641, 8.2279}, vArg_phB = {4.7065, 3.5627, 4.2216, 5.9383}, vArg_phC = {2.6138, 1.127, 6.9575, 3.4123}, vMag_phA = {282.8166, 0.45117, 0.39336, 0.76549}, vMag_phB = {282.9682, 0.65765, 0.17303, 1.3199}, vMag_phC = {281.8661, 0.35229, 0.54619, 0.99899}) annotation (
     Placement(visible = true, transformation(origin = {-98, 18}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));

@@ -13,7 +13,9 @@ record ACConverter
   parameter String name="";
   parameter String modelFileName="HPF/Data/ConverterModels/SinglePhase/ACDC/demoModel.mat"
     "Rectifier harmonic model mat file";
-
+  parameter Real alpha=0;
+  parameter Real beta=0;
+  parameter Real gamma=0;
   annotation (Icon(coordinateSystem(preserveAspectRatio=false)), Diagram(
         coordinateSystem(preserveAspectRatio=false)));
 end ACConverter;

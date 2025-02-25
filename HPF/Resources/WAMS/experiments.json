@@ -54,17 +54,128 @@
     "filters" : [ ],
     "isDefault" : true
   } ],
-  "HPF.Examples.ModelingValidation.Design_for_DC_all_AC" : [ {
-    "created" : "2023-09-26T15:34:01.884Z",
-    "lastModified" : "2023-09-26T15:34:01.884Z",
+  "HPF.Examples.ModelingValidation.Scenario_6_Data_Set_6_4" : [ {
+    "created" : "2023-05-17T00:57:39.175Z",
+    "lastModified" : "2023-05-17T00:57:39.175Z",
     "name" : "Experiment 1",
     "expressions" : [ ],
-    "model" : "HPF.Examples.ModelingValidation.Design_for_DC_all_AC",
+    "model" : "HPF.Examples.ModelingValidation.Scenario_6_Data_Set_6_4",
     "settings" : {
       "dynamic" : {
-        "stopTime" : 100000.0,
+        "stopTime" : 60.0,
         "tolerance" : 1.0E-10,
-        "interval" : 10.0
+        "interval" : 1.0
+      },
+      "steadyState" : { },
+      "custom" : { },
+      "simulationType" : "dynamic"
+    },
+    "filters" : [ ],
+    "isDefault" : true
+  } ],
+  "HPF.Templates.Examples.LoadwStepDown" : [ {
+    "created" : "2023-11-13T00:04:24.101Z",
+    "lastModified" : "2023-11-13T00:04:24.101Z",
+    "name" : "Experiment 1",
+    "expressions" : [ ],
+    "model" : "HPF.Templates.Examples.LoadwStepDown",
+    "settings" : {
+      "dynamic" : {
+        "stopTime" : 3600.0
+      },
+      "steadyState" : { },
+      "custom" : { },
+      "simulationType" : "dynamic"
+    },
+    "filters" : [ ],
+    "isDefault" : true
+  } ],
+  "HPF.Templates.Examples.Design_for_DC_all_AC" : [ {
+    "created" : "2024-01-04T23:36:02.351Z",
+    "lastModified" : "2024-01-04T23:36:02.351Z",
+    "name" : "Experiment 1",
+    "expressions" : [ ],
+    "model" : "HPF.Templates.Examples.Design_for_DC_all_AC",
+    "settings" : {
+      "dynamic" : {
+        "stopTime" : 86400.0,
+        "interval" : 900.0
+      },
+      "steadyState" : { },
+      "custom" : { },
+      "simulationType" : "dynamic"
+    },
+    "filters" : [ ],
+    "isDefault" : true
+  } ],
+  "HPF.Templates.PAE_AC" : [ {
+    "created" : "2024-01-17T00:30:48.098Z",
+    "lastModified" : "2024-01-17T00:30:48.098Z",
+    "name" : "Experiment 1",
+    "expressions" : [ {
+      "name" : "aCDC_3pBidirectionalSimple.VAC_nom",
+      "expression" : "120"
+    } ],
+    "model" : "HPF.Templates.PAE_AC",
+    "settings" : {
+      "dynamic" : {
+        "stopTime" : 10.0
+      },
+      "steadyState" : { },
+      "custom" : { },
+      "simulationType" : "dynamic"
+    },
+    "filters" : [ ],
+    "isDefault" : true
+  } ],
+  "HPF.Templates.PAE_AC_Model" : [ {
+    "created" : "2024-01-24T22:49:25.524Z",
+    "lastModified" : "2024-01-24T22:49:25.524Z",
+    "name" : "Experiment 1",
+    "expressions" : [ ],
+    "model" : "HPF.Templates.PAE_AC_Model",
+    "settings" : {
+      "dynamic" : {
+        "stopTime" : 3.1536E7,
+        "interval" : 3600.0
+      },
+      "steadyState" : { },
+      "custom" : { },
+      "simulationType" : "dynamic"
+    },
+    "filters" : [ ],
+    "isDefault" : true
+  } ],
+  "HPF.Templates.PAE_AC_1" : [ {
+    "created" : "2024-01-17T00:30:48.098Z",
+    "lastModified" : "2024-01-17T00:30:48.098Z",
+    "name" : "Experiment 1",
+    "expressions" : [ {
+      "name" : "aCDC_3pBidirectionalSimple.VAC_nom",
+      "expression" : "120"
+    } ],
+    "model" : "HPF.Templates.PAE_AC_1",
+    "settings" : {
+      "dynamic" : {
+        "stopTime" : 10.0
+      },
+      "steadyState" : { },
+      "custom" : { },
+      "simulationType" : "dynamic"
+    },
+    "filters" : [ ],
+    "isDefault" : true
+  } ],
+  "HPF.Templates.PAE_single_phase" : [ {
+    "created" : "2024-01-25T00:19:05.033Z",
+    "lastModified" : "2024-01-25T00:19:05.033Z",
+    "name" : "Experiment 1",
+    "expressions" : [ ],
+    "model" : "HPF.Templates.PAE_single_phase",
+    "settings" : {
+      "dynamic" : {
+        "stopTime" : 3.1536E7,
+        "interval" : 3600.0
       },
       "steadyState" : { },
       "custom" : { },
