@@ -11,16 +11,10 @@ record ACConverterwLoads
 
   parameter LoadwStepDown loadwStepDown[nStepDown]
     annotation (Placement(transformation(extent={{60,60},{80,80}})));
-  parameter LoadwStepDown loadwStepDown2[nStepDown]
-    annotation (Placement(transformation(extent={{60,60},{80,80}})));
 
   parameter ACConverter aCConverter[nConverter]
     annotation (Placement(transformation(extent={{60,20},{80,40}})));
-  
-  parameter Inverter Inverter;
-  parameter aCload aCload;
-  parameter PV PV;
-  parameter MPPT MPPT;
+
 
   annotation (Icon(coordinateSystem(preserveAspectRatio=false)), Diagram(
         coordinateSystem(preserveAspectRatio=false)));

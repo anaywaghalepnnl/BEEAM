@@ -8,15 +8,14 @@ package DC2DC_StepDown "DC to DC step down converter model data record"
       Converter characteristics
         - output voltage
     */
-    parameter Modelica.Units.SI.Voltage V=45
-      annotation (Dialog(group="Converter characteristics"));
+    parameter Modelica.SIunits.Voltage V = 5.0 annotation (Dialog(group = "Converter characteristics"));
     /*
       Converter model stuff    
     */
-    parameter Real alpha annotation (Dialog(group = "Converter efficiency model"));
-    parameter Real beta annotation (Dialog(group = "Converter efficiency model"));
-    parameter Real gamma annotation (Dialog(group = "Converter efficiency model"));
-    parameter Real Pnom annotation (Dialog(group = "PLoss calculations"));
+    parameter Real alpha = 1.0 annotation (Dialog(group = "Converter efficiency model"));
+    parameter Real beta = 1.0 annotation (Dialog(group = "Converter efficiency model"));
+    parameter Real gamma = 1.0 annotation (Dialog(group = "Converter efficiency model"));
+    parameter Real Pnom = 1.0 annotation (Dialog(group = "PLoss calculations"));
     annotation(defaultComponentPrefixes = "parameter");
   end ModelData;
 
@@ -32,7 +31,7 @@ package DC2DC_StepDown "DC to DC step down converter model data record"
   end Laptop_18V_90W_LapChrg4;
 
   record Laptop_18V_90W_LapChrg5
-    extends HPF.Data.ConverterModels.DC2DC_StepDown.ModelData(final V = 18.5, final Pnom=90, final alpha = 1.2611, final beta = -0.001, final gamma = 0.0011);
+    extends HPF.Data.ConverterModels.DC2DC_StepDown.ModelData(final V = 18.5, final alpha = 1.2611, final beta = -0.001, final gamma = 0.0011);
     annotation (defaultComponentPrefixes = "parameter",
       defaultComponentName = "laptop_18V_90W_LapChrg5",
       Documentation(info="<html>
@@ -52,53 +51,15 @@ package DC2DC_StepDown "DC to DC step down converter model data record"
 </html>"));
 
   end Laptop_18V_90W_LapChrg6;
-
+  
   record Igor_PoE_Driver_53W
     extends HPF.Data.ConverterModels.DC2DC_StepDown.ModelData(final V = 30, final Pnom = 53, final alpha = 0.022093, final beta = 0.012605, final gamma = 0.043602);
     annotation (defaultComponentPrefixes = "parameter",
-     defaultComponentName= "igor_PoE_Driver",
+     defaultComponentName ="igor_PoE_Driver",
       Documentation(info="<html>
   <p>BiXPower DD90X DC/DC laptop charger.&nbsp;</p>
   <p><br><br>Experimental setup converter alias: DC/DC converters Laptop Charger 6</p>
   </html>"));
-
+  
   end Igor_PoE_Driver_53W;
-
-  record zero_loss
-    extends .Modelica.Icons.Record;
-
-    /*(create dialog sections using annotation)
-      Converter characteristics
-        - output voltage
-    */
-    parameter .Modelica.Units.SI.Voltage V=30
-      annotation (Dialog(group="Converter characteristics"));
-    /*
-      Converter model stuff    
-    */
-    parameter Real alpha = 0.0 annotation (Dialog(group = "Converter efficiency model"));
-    parameter Real beta = 0.0 annotation (Dialog(group = "Converter efficiency model"));
-    parameter Real gamma = 0.0 annotation (Dialog(group = "Converter efficiency model"));
-    parameter Real Pnom = 1.0 annotation (Dialog(group = "PLoss calculations"));
-    annotation(defaultComponentPrefixes = "parameter");
-  end zero_loss;
-
-  record mppt
-    extends .Modelica.Icons.Record;
-
-    /*(create dialog sections using annotation)
-      Converter characteristics
-        - output voltage
-    */
-    parameter .Modelica.Units.SI.Voltage V=380
-      annotation (Dialog(group="Converter characteristics"));
-    /*
-      Converter model stuff    
-    */
-    parameter Real alpha = 0 annotation (Dialog(group = "Converter efficiency model"));
-    parameter Real beta = 0.01546067 annotation (Dialog(group = "Converter efficiency model"));
-    parameter Real gamma = 0.00659505 annotation (Dialog(group = "Converter efficiency model"));
-    parameter Real Pnom = 600 annotation (Dialog(group = "PLoss calculations"));
-    annotation(defaultComponentPrefixes = "parameter");
-  end mppt;
 end DC2DC_StepDown;

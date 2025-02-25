@@ -5,7 +5,6 @@ record LoadwStepDown
   parameter Integer nLoad=1;
   parameter String loadNames[nLoad]=fill("", nLoad);
   parameter String stepDownName="";
-  parameter Real Pnom[nLoad]=fill(1, nLoad);
 
   //Resistance parameters
   parameter Modelica.Units.SI.Resistance R[nLoad]=fill(1, nLoad)
@@ -18,7 +17,7 @@ record LoadwStepDown
   //Load parameters
   parameter String tableName[nLoad]=fill("schedule",  nLoad)
     "Table name on file or in function usertab (see docu)";
-  parameter String fileName[nLoad]//=fill(ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/schedule.txt"), nLoad)
+  parameter String fileName[nLoad]=fill(ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/schedule.txt"), nLoad)
     "File where matrix is stored";
 
   annotation (Icon(coordinateSystem(preserveAspectRatio=false)), Diagram(
