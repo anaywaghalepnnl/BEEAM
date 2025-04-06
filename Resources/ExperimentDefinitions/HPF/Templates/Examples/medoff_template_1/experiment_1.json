@@ -9,16 +9,17 @@
         "choices" : [ {
           "type" : "dynamic",
           "parameters" : {
-            "final_time" : 10,
-            "interval" : 0.001,
+            "final_time" : 31536000,
             "start_time" : 0
           },
           "simulationOptions" : {
             "dynamic_diagnostics" : false,
-            "ncp" : 500
+            "ncp" : 35040,
+            "solver" : "CVode"
           },
           "solverOptions" : {
-            "store_event_points" : true
+            "store_event_points" : false,
+            "tolerance" : 0.1
           },
           "compilerOptions" : {
             "c_compiler" : "gcc",
@@ -47,7 +48,7 @@
   },
   "metadata" : {
     "created" : "2024-06-25 19:47:43.783968525",
-    "lastModified" : "2024-06-25T19:47:45.006624686Z",
+    "lastModified" : "2025-04-06T21:23:36.543651048Z",
     "name" : "Experiment 1"
   }
 }

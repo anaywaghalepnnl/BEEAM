@@ -10,8 +10,8 @@ record medoff_record_2
   //parameter Types.WireGaugeDC dccable_lumA[nStepDown_lumA]=fill(HPF.Types.WireGaugeDC.gauge_POE,nStepDown);
   //parameter Real length[nStepDown]=fill(4,nStepDown) "Length of wire";
   
-  parameter Integer nconverter_lumA;
-  parameter Integer stepDown_indices_lumA[nconverter_lumA];
+  parameter Integer nconverter_lumA = 1;
+  parameter Integer stepDown_indices_lumA[nconverter_lumA] = {1};
   parameter Integer nStepDown_lumA=sum(stepDown_indices_lumA);
   
   parameter Integer nconverter_lumB = 1;

@@ -11,7 +11,7 @@ model medoff_template_2
     parameter Integer nconverter_lumB = modelData.nconverter_lumB;
     parameter Integer nconverter_lumC = modelData.nconverter_lumC;
     
-    replaceable parameter .HPF.Templates.Data.Examples.medium_office_SD modelData annotation(Placement(transformation(extent = {{-86.0,74.0},{-66.0,94.0}},origin = {0.0,0.0},rotation = 0.0)));
+    replaceable parameter .HPF.Templates.Data.Examples.medium_office_localDC modelData annotation(Placement(transformation(extent = {{-86.0,74.0},{-66.0,94.0}},origin = {0.0,0.0},rotation = 0.0)));
     
     //Transformer
     .HPF.Transformers.ThreePhase.Symmetric.D1Y d1Y(

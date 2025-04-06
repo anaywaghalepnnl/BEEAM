@@ -10,7 +10,7 @@ model Design_for_DC_Distributed_DC
     Placement(visible = true, transformation(origin = {69, -181}, extent = {{-13, -13}, {13, 13}}, rotation = 0)));
   HPF.DC.Variable_DC_Load LED_1 annotation (
     Placement(visible = true, transformation(origin = {40, 192}, extent = {{-22, -22}, {22, 22}}, rotation = -90)));
-  Modelica.Blocks.Sources.CombiTimeTable schedule(fileName = .ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/20_schedule.txt"), tableName = "schedule", tableOnFile = true)  annotation (
+  Modelica.Blocks.Sources.CombiTimeTable schedule(fileName = .ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/test.txt"), tableName = "L-115", tableOnFile = true)  annotation (
     Placement(visible = true, transformation(origin = {142.0,256.0}, extent = {{-30.0,-30.0},{30.0,30.0}}, rotation = -90.0)));
   HPF.PowerConverters.SinglePhase.ACDC_1pRectifierSimple PoE_switch(P_DCmin = 1.2, P_nom = 480, P_stby = 9.2, VAC_nom = 120, VDC_nom = 53, alpha = 0.022145, beta = 0.078036, gamma = -4.3962e-3)  annotation (
     Placement(visible = true, transformation(origin = {-190, 42}, extent = {{-42, -42}, {42, 42}}, rotation = 0)));

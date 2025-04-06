@@ -1,0 +1,44 @@
+{
+  "stickies" : [ ],
+  "stickyPositions" : [ ],
+  "plots" : [ {
+    "variables" : [ "voltageSource.P" ],
+    "independentVariable" : "time",
+    "x" : 0.0,
+    "y" : 0.0,
+    "width" : 11.0,
+    "height" : 5.0,
+    "title" : "analyze-dashboard-item-e7480956-8560-4086-bca8-2da3fae399ed",
+    "config" : {
+      "type" : "LINE",
+      "layout" : {
+        "title" : {
+          "text" : "Plot 2"
+        },
+        "showlegend" : false,
+        "yaxis" : {
+          "autorange" : false,
+          "range" : [ -60130.46734713936, 2495.7884164296993 ]
+        }
+      },
+      "common" : { },
+      "variables" : { }
+    },
+    "axes" : {
+      "x" : {
+        "type" : "default"
+      }
+    }
+  } ],
+  "globalConfig" : {
+    "plot" : {
+      "common" : {
+        "showTitle" : true,
+        "colorMode" : "result"
+      }
+    },
+    "experiment" : { }
+  },
+  "version" : "1",
+  "name" : "impact-analysis-dashboard-view-1984"
+}
