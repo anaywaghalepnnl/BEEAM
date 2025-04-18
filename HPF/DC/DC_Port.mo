@@ -1,6 +1,6 @@
 within HPF.DC;
 model DC_Port
-  extends Modelica.Electrical.Analog.Interfaces.OnePort;
+  extends Modelica.Electrical.Analog.Interfaces.OnePort(i(fixed = false),v(fixed = false));
   Modelica.Units.SI.Power pwr "Component power";
 equation
   pwr = v*i;

@@ -1,0 +1,64 @@
+{
+  "stickies" : [ ],
+  "stickyPositions" : [ ],
+  "plots" : [ {
+    "variables" : [ "voltageSource.P" ],
+    "independentVariable" : "time",
+    "x" : 0.0,
+    "y" : 0.0,
+    "width" : 12.0,
+    "height" : 3.0,
+    "title" : "analyze-dashboard-item-9225913d-0a78-41c8-a239-5f96cd6bbd3a",
+    "config" : {
+      "type" : "LINE",
+      "layout" : {
+        "title" : {
+          "text" : "Plot 1"
+        },
+        "showlegend" : true
+      },
+      "common" : { },
+      "variables" : { }
+    },
+    "axes" : {
+      "x" : {
+        "type" : "default"
+      }
+    }
+  }, {
+    "variables" : [ "bESS.SOC" ],
+    "independentVariable" : "time",
+    "x" : 0.0,
+    "y" : 3.0,
+    "width" : 12.0,
+    "height" : 2.0,
+    "title" : "analyze-dashboard-item-229288c8-6ad5-452b-9267-46f7e9dd51cc",
+    "config" : {
+      "type" : "LINE",
+      "layout" : {
+        "title" : {
+          "text" : "Plot 2"
+        },
+        "showlegend" : true
+      },
+      "common" : { },
+      "variables" : { }
+    },
+    "axes" : {
+      "x" : {
+        "type" : "default"
+      }
+    }
+  } ],
+  "globalConfig" : {
+    "plot" : {
+      "common" : {
+        "showTitle" : true,
+        "colorMode" : "result"
+      }
+    },
+    "experiment" : { }
+  },
+  "version" : "1",
+  "name" : "impact-analysis-dashboard-view-1984"
+}

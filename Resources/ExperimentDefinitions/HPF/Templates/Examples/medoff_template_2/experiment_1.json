@@ -14,8 +14,7 @@
             "start_time" : 0
           },
           "simulationOptions" : {
-            "dynamic_diagnostics" : false,
-            "ncp" : 500
+            "dynamic_diagnostics" : false
           },
           "solverOptions" : {
             "store_event_points" : false,
@@ -48,7 +47,7 @@
   },
   "metadata" : {
     "created" : "2024-06-25 19:47:43.783968525",
-    "lastModified" : "2025-04-06T20:30:32.123571122Z",
+    "lastModified" : "2025-04-16T19:38:57.879128163Z",
     "name" : "Experiment 1"
   }
 }

@@ -9,7 +9,7 @@ package HPF
           fillPattern =                                                                                                                                                                                                        FillPattern.Solid, extent = {{-2, 7}, {2, -49}}), Rectangle(origin = {60, -11}, fillColor = {45, 125, 179},
           fillPattern =                                                                                                                                                                                                        FillPattern.Solid, extent = {{-2, -11}, {2, -49}})}),
     Diagram(coordinateSystem(grid = {0, 0})),
-    uses(Modelica(version="4.0.0"),PrototypeBuildingElectricalModels(version = "0.1-beta"),Modelon(version = "4.5"),Electrification(version = "1.12")),
+    uses(Modelica(version="4.0.0"),PrototypeBuildingElectricalModels(version = "0.1-beta"),Modelon(version = "4.5"),Electrification(version = "1.12"),Complex(version = "4.0.0")),
     version="1",
     versionDate = "2020-09-29",
     dateModified = "2020-09-28",

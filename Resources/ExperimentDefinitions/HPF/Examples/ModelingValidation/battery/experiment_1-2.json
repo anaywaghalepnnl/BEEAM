@@ -10,7 +10,7 @@
           "type" : "dynamic",
           "parameters" : {
             "final_time" : 86400,
-            "interval" : 60,
+            "interval" : 900,
             "start_time" : 0
           },
           "simulationOptions" : {
@@ -21,7 +21,7 @@
             "tolerance" : 0.1
           },
           "compilerOptions" : {
-            "generate_html_diagnostics" : false,
+            "generate_html_diagnostics" : true,
             "include_protected_variables" : false
           },
           "runtimeOptions" : { }
@@ -46,7 +46,7 @@
   },
   "metadata" : {
     "created" : "2025-03-19 22:41:39.981308912",
-    "lastModified" : "2025-03-20T21:55:44.886907190Z",
+    "lastModified" : "2025-04-15T20:19:58.535831774Z",
     "name" : "Experiment 1"
   }
 }

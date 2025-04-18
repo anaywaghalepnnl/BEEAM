@@ -7,8 +7,8 @@ model VoltageSource "Voltage Source"
   extends HPF.SinglePhase.Interface.Source;
   HPF.Utilities.ComponentProperties properties(ComponentType = "VoltageSource");
   import Modelica.ComplexMath.j;
-  parameter Real vMag[:] = {1} "Voltage Magnitude (Volts rms)";
-  parameter Real vArg[:] = {0} "Voltage angle (rad)";
+  input Real vMag[:] = {1} "Voltage Magnitude (Volts rms)";
+  input Real vArg[:] = {0} "Voltage angle (rad)";
   /*
         Measurable quantities 
         S = V * conj(i) = (v.re + jv.im) * (i.re - ji.im)

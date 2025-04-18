@@ -9,13 +9,12 @@
         "choices" : [ {
           "type" : "dynamic",
           "parameters" : {
-            "final_time" : 31536000,
+            "final_time" : 18000,
             "interval" : 900,
             "start_time" : 0
           },
           "simulationOptions" : {
             "dynamic_diagnostics" : false,
-            "ncp" : 500,
             "result_max_size" : 20000000000,
             "solver" : "ExplicitEuler"
           },
@@ -51,7 +50,7 @@
   },
   "metadata" : {
     "created" : "2024-06-25 19:47:43.783968525",
-    "lastModified" : "2025-04-06T19:22:54.021299384Z",
+    "lastModified" : "2025-04-08T20:29:15.930627494Z",
     "name" : "Experiment 1"
   }
 }

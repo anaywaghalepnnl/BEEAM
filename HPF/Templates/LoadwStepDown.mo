@@ -28,7 +28,7 @@ model LoadwStepDown
   Modelica.Blocks.Sources.CombiTimeTable schedule[nLoad](
     fileName=modelData.fileName,
     tableName=modelData.tableName,
-    tableOnFile=fill(true, nLoad),timeScale = fill(3600,nLoad),smoothness = Modelica.Blocks.Types.Smoothness.ConstantSegments,extrapolation = fill(Modelica.Blocks.Types.Extrapolation.HoldLastPoint,nLoad),verboseRead = {true},verboseExtrapolation = {false})
+    tableOnFile=fill(true, nLoad),timeScale = fill(3600,nLoad),smoothness = Modelica.Blocks.Types.Smoothness.ConstantSegments,extrapolation = fill(Modelica.Blocks.Types.Extrapolation.HoldLastPoint,nLoad),verboseRead = {false},verboseExtrapolation = {false})
     annotation (Placement(visible=true, transformation(
         origin={-74.0,70.0},
         extent={{-10.0,-10.0},{10.0,10.0}},

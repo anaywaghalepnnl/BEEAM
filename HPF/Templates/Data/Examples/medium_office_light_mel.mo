@@ -2586,7 +2586,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-341B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2596,7 +2596,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-112"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2606,7 +2606,7 @@ lum_phaseA={
             Pnom={13},
             R={0},
             tableName={"Room-210"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2616,7 +2616,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-316"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2626,7 +2626,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2636,7 +2636,7 @@ lum_phaseA={
             Pnom={34},
             R={0},
             tableName={"Room-136"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2646,7 +2646,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2656,7 +2656,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-228A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2666,7 +2666,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-218B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2676,7 +2676,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-135"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2686,7 +2686,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2696,7 +2696,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-320"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2706,7 +2706,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2716,7 +2716,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2726,7 +2726,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-223"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2736,7 +2736,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-218B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2746,7 +2746,7 @@ lum_phaseA={
             Pnom={13},
             R={0},
             tableName={"Room-123"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2756,7 +2756,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2766,7 +2766,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-341A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2776,7 +2776,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-228B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2786,7 +2786,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-310"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2796,7 +2796,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2806,7 +2806,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-111"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2816,7 +2816,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-306"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2826,7 +2826,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2836,7 +2836,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-130"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2846,7 +2846,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2856,7 +2856,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-306"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2866,7 +2866,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-113"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2876,7 +2876,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2886,7 +2886,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-340A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2896,7 +2896,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2906,7 +2906,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-122B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2916,7 +2916,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-315"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2926,7 +2926,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-305"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2936,7 +2936,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-131"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2946,7 +2946,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-228B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2956,7 +2956,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-101"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2966,7 +2966,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-122B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2976,7 +2976,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-127"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2986,7 +2986,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -2996,7 +2996,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3006,7 +3006,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-218C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3016,7 +3016,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-340A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3026,7 +3026,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3036,7 +3036,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-129"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3046,7 +3046,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3056,7 +3056,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3066,7 +3066,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3076,7 +3076,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-340B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3086,7 +3086,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-330"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3096,7 +3096,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3106,7 +3106,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3116,7 +3116,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3126,7 +3126,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-122B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3136,7 +3136,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3146,7 +3146,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-340B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3156,7 +3156,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3166,7 +3166,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3176,7 +3176,7 @@ lum_phaseA={
             Pnom={34},
             R={0},
             tableName={"Room-326"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3186,7 +3186,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3196,7 +3196,7 @@ lum_phaseA={
             Pnom={35},
             R={0},
             tableName={"Room-337"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3206,7 +3206,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-324"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3216,7 +3216,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-328"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3226,7 +3226,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-328"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3236,7 +3236,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3246,7 +3246,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-108"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3256,7 +3256,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3266,7 +3266,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-218B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3276,7 +3276,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-135"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3286,7 +3286,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3296,7 +3296,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3306,7 +3306,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-331"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3316,7 +3316,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-134"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3326,7 +3326,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3336,7 +3336,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3346,7 +3346,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-111"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3356,7 +3356,7 @@ lum_phaseA={
             Pnom={34},
             R={0},
             tableName={"Room-205"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3366,7 +3366,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-114"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3376,7 +3376,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3386,7 +3386,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3396,7 +3396,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-209"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3406,7 +3406,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-320"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3416,7 +3416,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-220"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3426,7 +3426,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3436,7 +3436,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3446,7 +3446,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-340A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3456,7 +3456,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3466,7 +3466,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-126"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3476,7 +3476,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3486,7 +3486,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-328"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3496,7 +3496,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3506,7 +3506,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-133"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3516,7 +3516,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3526,7 +3526,7 @@ lum_phaseA={
             Pnom={34},
             R={0},
             tableName={"Room-205"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3536,7 +3536,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-127"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3546,7 +3546,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3556,7 +3556,7 @@ lum_phaseA={
             Pnom={35},
             R={0},
             tableName={"Room-337"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3566,7 +3566,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-214"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3576,7 +3576,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-117"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3586,7 +3586,7 @@ lum_phaseA={
             Pnom={22},
             R={0},
             tableName={"Room-305"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3596,7 +3596,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-228C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3606,7 +3606,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-312"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3616,7 +3616,7 @@ lum_phaseA={
             Pnom={22},
             R={0},
             tableName={"Room-137"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3626,7 +3626,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-124"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3636,7 +3636,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-320"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3646,7 +3646,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3656,7 +3656,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-324"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3666,7 +3666,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3676,7 +3676,7 @@ lum_phaseA={
             Pnom={42},
             R={0},
             tableName={"Room-213"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3686,7 +3686,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3696,7 +3696,7 @@ lum_phaseA={
             Pnom={42},
             R={0},
             tableName={"Room-110C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3706,7 +3706,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-336"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3716,7 +3716,7 @@ lum_phaseA={
             Pnom={34},
             R={0},
             tableName={"Room-212"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3726,7 +3726,7 @@ lum_phaseA={
             Pnom={34},
             R={0},
             tableName={"Room-136"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3736,7 +3736,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-122B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3746,7 +3746,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3756,7 +3756,7 @@ lum_phaseA={
             Pnom={22},
             R={0},
             tableName={"Room-108"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3766,7 +3766,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-228B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3776,7 +3776,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-116"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3786,7 +3786,7 @@ lum_phaseA={
             Pnom={34},
             R={0},
             tableName={"Room-109"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3796,7 +3796,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-228A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3806,7 +3806,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3816,7 +3816,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3826,7 +3826,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3836,7 +3836,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3846,7 +3846,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-328"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3856,7 +3856,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3866,7 +3866,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-214"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3876,7 +3876,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-322"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3886,7 +3886,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-214"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3896,7 +3896,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-329"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3906,7 +3906,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-220"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3916,7 +3916,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-328"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3926,7 +3926,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-224"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3936,7 +3936,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3946,7 +3946,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3956,7 +3956,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3966,7 +3966,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-126"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3976,7 +3976,7 @@ lum_phaseA={
             Pnom={35},
             R={0},
             tableName={"Room-337"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3986,7 +3986,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-225"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -3996,7 +3996,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-218A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4006,7 +4006,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4016,7 +4016,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4026,7 +4026,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-332"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4036,7 +4036,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4046,7 +4046,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-228A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4056,7 +4056,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-122A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4066,7 +4066,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-228B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4076,7 +4076,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4086,7 +4086,7 @@ lum_phaseA={
             Pnom={42},
             R={0},
             tableName={"Room-323"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4096,7 +4096,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4106,7 +4106,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-228A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4116,7 +4116,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-135"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4126,7 +4126,7 @@ lum_phaseA={
             Pnom={22},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4136,7 +4136,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-122C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4146,7 +4146,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-340B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4156,7 +4156,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4166,7 +4166,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-126"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4176,7 +4176,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-308"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4186,7 +4186,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4196,7 +4196,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-204"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4206,7 +4206,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-117"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4216,7 +4216,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-137"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4226,7 +4226,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4236,7 +4236,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-307"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4246,7 +4246,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-122B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4256,7 +4256,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-219"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4266,7 +4266,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4276,7 +4276,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4286,7 +4286,7 @@ lum_phaseA={
             Pnom={13},
             R={0},
             tableName={"Room-210"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4296,7 +4296,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-116"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4306,7 +4306,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4316,7 +4316,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4326,7 +4326,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-308"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4336,7 +4336,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4346,7 +4346,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-228B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4356,7 +4356,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4366,7 +4366,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-329"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4376,7 +4376,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-122A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4386,7 +4386,7 @@ lum_phaseA={
             Pnom={42},
             R={0},
             tableName={"Room-229A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4396,7 +4396,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4406,7 +4406,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4416,7 +4416,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-218A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4426,7 +4426,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4436,7 +4436,7 @@ lum_phaseA={
             Pnom={34},
             R={0},
             tableName={"Room-208"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4446,7 +4446,7 @@ lum_phaseA={
             Pnom={35},
             R={0},
             tableName={"Room-203"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4456,7 +4456,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4466,7 +4466,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4476,7 +4476,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-117"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4486,7 +4486,7 @@ lum_phaseA={
             Pnom={13},
             R={0},
             tableName={"Room-123"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4496,7 +4496,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4506,7 +4506,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4516,7 +4516,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4526,7 +4526,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4536,7 +4536,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4546,7 +4546,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4556,7 +4556,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-340A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4566,7 +4566,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-336"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4576,7 +4576,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4586,7 +4586,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-341B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4596,7 +4596,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-209"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4606,7 +4606,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-115"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4616,7 +4616,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-209"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4626,7 +4626,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-228A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4636,7 +4636,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4646,7 +4646,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-126"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4656,7 +4656,7 @@ lum_phaseA={
             Pnom={42},
             R={0},
             tableName={"Room-123"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4666,7 +4666,7 @@ lum_phaseA={
             Pnom={35},
             R={0},
             tableName={"Room-215"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4676,7 +4676,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4686,7 +4686,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-122B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4696,7 +4696,7 @@ lum_phaseA={
             Pnom={34},
             R={0},
             tableName={"Room-334"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4706,7 +4706,7 @@ lum_phaseA={
             Pnom={22},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4716,7 +4716,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-220"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4726,7 +4726,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4736,7 +4736,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-134"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4746,7 +4746,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-340B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4756,7 +4756,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4766,7 +4766,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-132"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4776,7 +4776,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-209"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4786,7 +4786,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-126"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4796,7 +4796,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4806,7 +4806,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-228B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4816,7 +4816,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4826,7 +4826,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-115"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4836,7 +4836,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-219"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4846,7 +4846,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-122C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4856,7 +4856,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4866,7 +4866,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-335"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4876,7 +4876,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-204"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4886,7 +4886,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-103"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4896,7 +4896,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4906,7 +4906,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-103"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4916,7 +4916,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-307"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4926,7 +4926,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4936,7 +4936,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4946,7 +4946,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4956,7 +4956,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-219"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4966,7 +4966,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4976,7 +4976,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-309"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4986,7 +4986,7 @@ lum_phaseA={
             Pnom={35},
             R={0},
             tableName={"Room-338"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -4996,7 +4996,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-110C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5006,7 +5006,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5016,7 +5016,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-329"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5026,7 +5026,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-101"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5036,7 +5036,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-219"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5046,7 +5046,7 @@ lum_phaseA={
             Pnom={42},
             R={0},
             tableName={"Room-110C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5056,7 +5056,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-113"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5066,7 +5066,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5076,7 +5076,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-119"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5086,7 +5086,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-318"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5096,7 +5096,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-111"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5106,7 +5106,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5116,7 +5116,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5126,7 +5126,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-309"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5136,7 +5136,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5146,7 +5146,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5156,7 +5156,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5166,7 +5166,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5176,7 +5176,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5186,7 +5186,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5196,7 +5196,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5206,7 +5206,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-311"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5216,7 +5216,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5226,7 +5226,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-217B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5236,7 +5236,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-218C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5246,7 +5246,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-341A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5256,7 +5256,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-122A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5266,7 +5266,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-314"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5276,7 +5276,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-220"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5286,7 +5286,7 @@ lum_phaseA={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5296,7 +5296,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-108"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5306,7 +5306,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5316,7 +5316,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-222"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5326,7 +5326,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5336,7 +5336,7 @@ lum_phaseA={
             Pnom={21},
             R={0},
             tableName={"Room-209"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5346,7 +5346,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-204"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5356,7 +5356,7 @@ lum_phaseA={
             Pnom={42},
             R={0},
             tableName={"Room-103"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5366,7 +5366,7 @@ lum_phaseA={
             Pnom={28},
             R={0},
             tableName={"Room-120"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5376,7 +5376,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5386,7 +5386,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-303D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5396,7 +5396,7 @@ lum_phaseA={
             Pnom={31},
             R={0},
             tableName={"Room-228A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5406,7 +5406,7 @@ lum_phaseA={
             Pnom={34},
             R={0},
             tableName={"Room-109"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -5416,7 +5416,7 @@ lum_phaseA={
             Pnom={40},
             R={0},
             tableName={"Room-133"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})},
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})},
 lumconv_phaseB={
             .HPF.Templates.Data.ACConverter(name="http://app.speckle.systems/projects/814e0c495e/objects/57cdd451d1fdc98c40001838c172d2c4",
                 V_Rect=19.5,
@@ -7983,7 +7983,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-320"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -7993,7 +7993,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-108"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8003,7 +8003,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8013,7 +8013,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-341A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8023,7 +8023,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-224"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8033,7 +8033,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8043,7 +8043,7 @@ lum_phaseB={
             Pnom={35},
             R={0},
             tableName={"Room-216"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8053,7 +8053,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-223"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8063,7 +8063,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8073,7 +8073,7 @@ lum_phaseB={
             Pnom={20},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8083,7 +8083,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8093,7 +8093,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8103,7 +8103,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-221"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8113,7 +8113,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-201"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8123,7 +8123,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-116"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8133,7 +8133,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-228C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8143,7 +8143,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8153,7 +8153,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-111"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8163,7 +8163,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8173,7 +8173,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-316"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8183,7 +8183,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-128"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8193,7 +8193,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-131"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8203,7 +8203,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8213,7 +8213,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-336"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8223,7 +8223,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8233,7 +8233,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8243,7 +8243,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-313"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8253,7 +8253,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-218A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8263,7 +8263,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8273,7 +8273,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-315"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8283,7 +8283,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-223"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8293,7 +8293,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8303,7 +8303,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-303D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8313,7 +8313,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-121"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8323,7 +8323,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-218C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8333,7 +8333,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-218B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8343,7 +8343,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-112"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8353,7 +8353,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8363,7 +8363,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-118"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8373,7 +8373,7 @@ lum_phaseB={
             Pnom={35},
             R={0},
             tableName={"Room-302"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8383,7 +8383,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-218C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8393,7 +8393,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-328"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8403,7 +8403,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8413,7 +8413,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8423,7 +8423,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8433,7 +8433,7 @@ lum_phaseB={
             Pnom={34},
             R={0},
             tableName={"Room-208"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8443,7 +8443,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-305"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8453,7 +8453,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8463,7 +8463,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-124"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8473,7 +8473,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-336"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8483,7 +8483,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-341B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8493,7 +8493,7 @@ lum_phaseB={
             Pnom={22},
             R={0},
             tableName={"Room-303A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8503,7 +8503,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-115"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8513,7 +8513,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-333"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8523,7 +8523,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-313"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8533,7 +8533,7 @@ lum_phaseB={
             Pnom={35},
             R={0},
             tableName={"Room-304"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8543,7 +8543,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-137"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8553,7 +8553,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8563,7 +8563,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8573,7 +8573,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8583,7 +8583,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-132"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8593,7 +8593,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8603,7 +8603,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-309"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8613,7 +8613,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-313"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8623,7 +8623,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8633,7 +8633,7 @@ lum_phaseB={
             Pnom={35},
             R={0},
             tableName={"Room-304"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8643,7 +8643,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-126"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8653,7 +8653,7 @@ lum_phaseB={
             Pnom={35},
             R={0},
             tableName={"Room-304"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8663,7 +8663,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-322"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8673,7 +8673,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-219"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8683,7 +8683,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-303A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8693,7 +8693,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8703,7 +8703,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8713,7 +8713,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-318"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8723,7 +8723,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8733,7 +8733,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-211"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8743,7 +8743,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8753,7 +8753,7 @@ lum_phaseB={
             Pnom={20},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8763,7 +8763,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-226"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8773,7 +8773,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8783,7 +8783,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-122C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8793,7 +8793,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-218A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8803,7 +8803,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8813,7 +8813,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8823,7 +8823,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-307"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8833,7 +8833,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8843,7 +8843,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-228A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8853,7 +8853,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-118"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8863,7 +8863,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-110C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8873,7 +8873,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-122C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8883,7 +8883,7 @@ lum_phaseB={
             Pnom={42},
             R={0},
             tableName={"Room-301"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8893,7 +8893,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8903,7 +8903,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-341A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8913,7 +8913,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8923,7 +8923,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-219"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8933,7 +8933,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8943,7 +8943,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8953,7 +8953,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8963,7 +8963,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-225"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8973,7 +8973,7 @@ lum_phaseB={
             Pnom={13},
             R={0},
             tableName={"Room-323"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8983,7 +8983,7 @@ lum_phaseB={
             Pnom={35},
             R={0},
             tableName={"Room-106"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -8993,7 +8993,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9003,7 +9003,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9013,7 +9013,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-134"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9023,7 +9023,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-226"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9033,7 +9033,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9043,7 +9043,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9053,7 +9053,7 @@ lum_phaseB={
             Pnom={42},
             R={0},
             tableName={"Room-213"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9063,7 +9063,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9073,7 +9073,7 @@ lum_phaseB={
             Pnom={34},
             R={0},
             tableName={"Room-339"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9083,7 +9083,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9093,7 +9093,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9103,7 +9103,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-309"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9113,7 +9113,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-114"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9123,7 +9123,7 @@ lum_phaseB={
             Pnom={22},
             R={0},
             tableName={"Room-204"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9133,7 +9133,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-204"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9143,7 +9143,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9153,7 +9153,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-335"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9163,7 +9163,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-328"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9173,7 +9173,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9183,7 +9183,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9193,7 +9193,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9203,7 +9203,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-316"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9213,7 +9213,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-218B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9223,7 +9223,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-112"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9233,7 +9233,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-128"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9243,7 +9243,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9253,7 +9253,7 @@ lum_phaseB={
             Pnom={34},
             R={0},
             tableName={"Room-319"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9263,7 +9263,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9273,7 +9273,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9283,7 +9283,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-330"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9293,7 +9293,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9303,7 +9303,7 @@ lum_phaseB={
             Pnom={35},
             R={0},
             tableName={"Room-202"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9313,7 +9313,7 @@ lum_phaseB={
             Pnom={22},
             R={0},
             tableName={"Room-214"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9323,7 +9323,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-330"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9333,7 +9333,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9343,7 +9343,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9353,7 +9353,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-332"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9363,7 +9363,7 @@ lum_phaseB={
             Pnom={22},
             R={0},
             tableName={"Room-214"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9373,7 +9373,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9383,7 +9383,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9393,7 +9393,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-311"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9403,7 +9403,7 @@ lum_phaseB={
             Pnom={34},
             R={0},
             tableName={"Room-136"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9413,7 +9413,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9423,7 +9423,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-120"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9433,7 +9433,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-209"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9443,7 +9443,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-218A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9453,7 +9453,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-209"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9463,7 +9463,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9473,7 +9473,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-311"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9483,7 +9483,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-122B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9493,7 +9493,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-117"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9503,7 +9503,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-108"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9513,7 +9513,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9523,7 +9523,7 @@ lum_phaseB={
             Pnom={42},
             R={0},
             tableName={"Room-301"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9533,7 +9533,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9543,7 +9543,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-124"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9553,7 +9553,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9563,7 +9563,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-130"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9573,7 +9573,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-122C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9583,7 +9583,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-131"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9593,7 +9593,7 @@ lum_phaseB={
             Pnom={34},
             R={0},
             tableName={"Room-325"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9603,7 +9603,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-322"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9613,7 +9613,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-324"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9623,7 +9623,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-226"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9633,7 +9633,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9643,7 +9643,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9653,7 +9653,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9663,7 +9663,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9673,7 +9673,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9683,7 +9683,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9693,7 +9693,7 @@ lum_phaseB={
             Pnom={34},
             R={0},
             tableName={"Room-212"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9703,7 +9703,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-303D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9713,7 +9713,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-314"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9723,7 +9723,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9733,7 +9733,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9743,7 +9743,7 @@ lum_phaseB={
             Pnom={42},
             R={0},
             tableName={"Room-210"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9753,7 +9753,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-122B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9763,7 +9763,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-331"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9773,7 +9773,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-224"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9783,7 +9783,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-317"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9793,7 +9793,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9803,7 +9803,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9813,7 +9813,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9823,7 +9823,7 @@ lum_phaseB={
             Pnom={34},
             R={0},
             tableName={"Room-212"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9833,7 +9833,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-221"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9843,7 +9843,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-228C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9853,7 +9853,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-211"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9863,7 +9863,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-228C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9873,7 +9873,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-209"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9883,7 +9883,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9893,7 +9893,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-218C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9903,7 +9903,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-315"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9913,7 +9913,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9923,7 +9923,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9933,7 +9933,7 @@ lum_phaseB={
             Pnom={20},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9943,7 +9943,7 @@ lum_phaseB={
             Pnom={22},
             R={0},
             tableName={"Room-229B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9953,7 +9953,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9963,7 +9963,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9973,7 +9973,7 @@ lum_phaseB={
             Pnom={22},
             R={0},
             tableName={"Room-137"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9983,7 +9983,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -9993,7 +9993,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10003,7 +10003,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-222"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10013,7 +10013,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-317"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10023,7 +10023,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10033,7 +10033,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-308"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10043,7 +10043,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10053,7 +10053,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10063,7 +10063,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-209"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10073,7 +10073,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-128"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10083,7 +10083,7 @@ lum_phaseB={
             Pnom={22},
             R={0},
             tableName={"Room-305"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10093,7 +10093,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10103,7 +10103,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-226"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10113,7 +10113,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-228B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10123,7 +10123,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10133,7 +10133,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-329"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10143,7 +10143,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10153,7 +10153,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10163,7 +10163,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10173,7 +10173,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-228B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10183,7 +10183,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10193,7 +10193,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-332"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10203,7 +10203,7 @@ lum_phaseB={
             Pnom={34},
             R={0},
             tableName={"Room-206"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10213,7 +10213,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-218B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10223,7 +10223,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-122C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10233,7 +10233,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-221"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10243,7 +10243,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10253,7 +10253,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10263,7 +10263,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-329"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10273,7 +10273,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10283,7 +10283,7 @@ lum_phaseB={
             Pnom={34},
             R={0},
             tableName={"Room-207"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10293,7 +10293,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10303,7 +10303,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10313,7 +10313,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-228A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10323,7 +10323,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-120"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10333,7 +10333,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10343,7 +10343,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10353,7 +10353,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-122C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10363,7 +10363,7 @@ lum_phaseB={
             Pnom={34},
             R={0},
             tableName={"Room-326"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10373,7 +10373,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-313"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10383,7 +10383,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-135"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10393,7 +10393,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10403,7 +10403,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-218A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10413,7 +10413,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10423,7 +10423,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10433,7 +10433,7 @@ lum_phaseB={
             Pnom={35},
             R={0},
             tableName={"Room-203"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10443,7 +10443,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-341A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10453,7 +10453,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-218A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10463,7 +10463,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-209"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10473,7 +10473,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10483,7 +10483,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-226"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10493,7 +10493,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10503,7 +10503,7 @@ lum_phaseB={
             Pnom={35},
             R={0},
             tableName={"Room-107"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10513,7 +10513,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-312"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10523,7 +10523,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10533,7 +10533,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10543,7 +10543,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10553,7 +10553,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-214"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10563,7 +10563,7 @@ lum_phaseB={
             Pnom={42},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10573,7 +10573,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10583,7 +10583,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-336"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10593,7 +10593,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-341A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10603,7 +10603,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10613,7 +10613,7 @@ lum_phaseB={
             Pnom={35},
             R={0},
             tableName={"Room-107"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10623,7 +10623,7 @@ lum_phaseB={
             Pnom={22},
             R={0},
             tableName={"Room-321"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10633,7 +10633,7 @@ lum_phaseB={
             Pnom={22},
             R={0},
             tableName={"Room-305"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10643,7 +10643,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10653,7 +10653,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-341A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10663,7 +10663,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-130"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10673,7 +10673,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10683,7 +10683,7 @@ lum_phaseB={
             Pnom={35},
             R={0},
             tableName={"Room-105"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10693,7 +10693,7 @@ lum_phaseB={
             Pnom={35},
             R={0},
             tableName={"Room-106"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10703,7 +10703,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-110C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10713,7 +10713,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-225"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10723,7 +10723,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-129"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10733,7 +10733,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10743,7 +10743,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-217A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10753,7 +10753,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-310"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10763,7 +10763,7 @@ lum_phaseB={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10773,7 +10773,7 @@ lum_phaseB={
             Pnom={31},
             R={0},
             tableName={"Room-228A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10783,7 +10783,7 @@ lum_phaseB={
             Pnom={28},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10793,7 +10793,7 @@ lum_phaseB={
             Pnom={21},
             R={0},
             tableName={"Room-209"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10803,7 +10803,7 @@ lum_phaseB={
             Pnom={34},
             R={0},
             tableName={"Room-109"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -10813,7 +10813,7 @@ lum_phaseB={
             Pnom={40},
             R={0},
             tableName={"Room-132"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})},
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})},
 lumconv_phaseC={
             .HPF.Templates.Data.ACConverter(name="http://app.speckle.systems/projects/814e0c495e/objects/af59fc6851040aaee0e694c32b1c7b64",
                 V_Rect=19.5,
@@ -13389,7 +13389,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-135"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13399,7 +13399,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-330"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13409,7 +13409,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13419,7 +13419,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-301"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13429,7 +13429,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-126"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13439,7 +13439,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-126"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13449,7 +13449,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-108"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13459,7 +13459,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-114"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13469,7 +13469,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-214"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13479,7 +13479,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-111"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13489,7 +13489,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-305"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13499,7 +13499,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13509,7 +13509,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13519,7 +13519,7 @@ lum_phaseC={
             Pnom={35},
             R={0},
             tableName={"Room-106"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13529,7 +13529,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13539,7 +13539,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-110C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13549,7 +13549,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13559,7 +13559,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13569,7 +13569,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-137"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13579,7 +13579,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13589,7 +13589,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-307"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13599,7 +13599,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-228A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13609,7 +13609,7 @@ lum_phaseC={
             Pnom={13},
             R={0},
             tableName={"Room-323"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13619,7 +13619,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13629,7 +13629,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-115"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13639,7 +13639,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13649,7 +13649,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-312"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13659,7 +13659,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13669,7 +13669,7 @@ lum_phaseC={
             Pnom={22},
             R={0},
             tableName={"Room-108"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13679,7 +13679,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-312"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13689,7 +13689,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13699,7 +13699,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-301"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13709,7 +13709,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13719,7 +13719,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13729,7 +13729,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-112"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13739,7 +13739,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13749,7 +13749,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-228B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13759,7 +13759,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-126"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13769,7 +13769,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-211"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13779,7 +13779,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-218C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13789,7 +13789,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-218B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13799,7 +13799,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-322"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13809,7 +13809,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-137"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13819,7 +13819,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-116"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13829,7 +13829,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13839,7 +13839,7 @@ lum_phaseC={
             Pnom={42},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13849,7 +13849,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13859,7 +13859,7 @@ lum_phaseC={
             Pnom={35},
             R={0},
             tableName={"Room-203"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13869,7 +13869,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13879,7 +13879,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-214"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13889,7 +13889,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13899,7 +13899,7 @@ lum_phaseC={
             Pnom={13},
             R={0},
             tableName={"Room-210"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13909,7 +13909,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-340A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13919,7 +13919,7 @@ lum_phaseC={
             Pnom={35},
             R={0},
             tableName={"Room-215"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13929,7 +13929,7 @@ lum_phaseC={
             Pnom={13},
             R={0},
             tableName={"Room-210"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13939,7 +13939,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-310"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13949,7 +13949,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-218B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13959,7 +13959,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-211"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13969,7 +13969,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13979,7 +13979,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13989,7 +13989,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-313"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -13999,7 +13999,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14009,7 +14009,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14019,7 +14019,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-113"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14029,7 +14029,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-332"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14039,7 +14039,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-221"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14049,7 +14049,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-340A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14059,7 +14059,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14069,7 +14069,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14079,7 +14079,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14089,7 +14089,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-118"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14099,7 +14099,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-128"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14109,7 +14109,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14119,7 +14119,7 @@ lum_phaseC={
             Pnom={42},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14129,7 +14129,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-305"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14139,7 +14139,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-127"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14149,7 +14149,7 @@ lum_phaseC={
             Pnom={22},
             R={0},
             tableName={"Room-303A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14159,7 +14159,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14169,7 +14169,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-112"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14179,7 +14179,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-218B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14189,7 +14189,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14199,7 +14199,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14209,7 +14209,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14219,7 +14219,7 @@ lum_phaseC={
             Pnom={22},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14229,7 +14229,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-228C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14239,7 +14239,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14249,7 +14249,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14259,7 +14259,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-336"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14269,7 +14269,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14279,7 +14279,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-111"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14289,7 +14289,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14299,7 +14299,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14309,7 +14309,7 @@ lum_phaseC={
             Pnom={34},
             R={0},
             tableName={"Room-207"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14319,7 +14319,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14329,7 +14329,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14339,7 +14339,7 @@ lum_phaseC={
             Pnom={34},
             R={0},
             tableName={"Room-206"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14349,7 +14349,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-119"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14359,7 +14359,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14369,7 +14369,7 @@ lum_phaseC={
             Pnom={22},
             R={0},
             tableName={"Room-229B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14379,7 +14379,7 @@ lum_phaseC={
             Pnom={42},
             R={0},
             tableName={"Room-110C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14389,7 +14389,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-333"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14399,7 +14399,7 @@ lum_phaseC={
             Pnom={35},
             R={0},
             tableName={"Room-107"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14409,7 +14409,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14419,7 +14419,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14429,7 +14429,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-228B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14439,7 +14439,7 @@ lum_phaseC={
             Pnom={35},
             R={0},
             tableName={"Room-215"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14449,7 +14449,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14459,7 +14459,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-126"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14469,7 +14469,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14479,7 +14479,7 @@ lum_phaseC={
             Pnom={34},
             R={0},
             tableName={"Room-334"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14489,7 +14489,7 @@ lum_phaseC={
             Pnom={13},
             R={0},
             tableName={"Room-323"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14499,7 +14499,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14509,7 +14509,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-340B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14519,7 +14519,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-318"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14529,7 +14529,7 @@ lum_phaseC={
             Pnom={22},
             R={0},
             tableName={"Room-336"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14539,7 +14539,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-318"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14549,7 +14549,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14559,7 +14559,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14569,7 +14569,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14579,7 +14579,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-110C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14589,7 +14589,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14599,7 +14599,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14609,7 +14609,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14619,7 +14619,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14629,7 +14629,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14639,7 +14639,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14649,7 +14649,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-121"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14659,7 +14659,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14669,7 +14669,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14679,7 +14679,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14689,7 +14689,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14699,7 +14699,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14709,7 +14709,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14719,7 +14719,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14729,7 +14729,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-204"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14739,7 +14739,7 @@ lum_phaseC={
             Pnom={42},
             R={0},
             tableName={"Room-201"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14749,7 +14749,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14759,7 +14759,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14769,7 +14769,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14779,7 +14779,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-226"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14789,7 +14789,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14799,7 +14799,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-225"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14809,7 +14809,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14819,7 +14819,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-316"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14829,7 +14829,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14839,7 +14839,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14849,7 +14849,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14859,7 +14859,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14869,7 +14869,7 @@ lum_phaseC={
             Pnom={42},
             R={0},
             tableName={"Room-201"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14879,7 +14879,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-329"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14889,7 +14889,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-306"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14899,7 +14899,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14909,7 +14909,7 @@ lum_phaseC={
             Pnom={34},
             R={0},
             tableName={"Room-109"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14919,7 +14919,7 @@ lum_phaseC={
             Pnom={35},
             R={0},
             tableName={"Room-216"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14929,7 +14929,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14939,7 +14939,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-340B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14949,7 +14949,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14959,7 +14959,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14969,7 +14969,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-340A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14979,7 +14979,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14989,7 +14989,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-120"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -14999,7 +14999,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-108"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15009,7 +15009,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-306"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15019,7 +15019,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-111"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15029,7 +15029,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15039,7 +15039,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15049,7 +15049,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15059,7 +15059,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15069,7 +15069,7 @@ lum_phaseC={
             Pnom={35},
             R={0},
             tableName={"Room-302"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15079,7 +15079,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15089,7 +15089,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-119"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15099,7 +15099,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15109,7 +15109,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-218C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15119,7 +15119,7 @@ lum_phaseC={
             Pnom={42},
             R={0},
             tableName={"Room-103"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15129,7 +15129,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-224"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15139,7 +15139,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-124"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15149,7 +15149,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-311"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15159,7 +15159,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15169,7 +15169,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15179,7 +15179,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15189,7 +15189,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15199,7 +15199,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-218C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15209,7 +15209,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-228C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15219,7 +15219,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-308"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15229,7 +15229,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-306"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15239,7 +15239,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-201"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15249,7 +15249,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15259,7 +15259,7 @@ lum_phaseC={
             Pnom={34},
             R={0},
             tableName={"Room-136"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15269,7 +15269,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15279,7 +15279,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15289,7 +15289,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15299,7 +15299,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15309,7 +15309,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-111"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15319,7 +15319,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-340B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15329,7 +15329,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-110C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15339,7 +15339,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-110C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15349,7 +15349,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15359,7 +15359,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-101"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15369,7 +15369,7 @@ lum_phaseC={
             Pnom={35},
             R={0},
             tableName={"Room-202"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15379,7 +15379,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15389,7 +15389,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15399,7 +15399,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-341A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15409,7 +15409,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-218A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15419,7 +15419,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-112"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15429,7 +15429,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-313"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15439,7 +15439,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-135"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15449,7 +15449,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15459,7 +15459,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15469,7 +15469,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15479,7 +15479,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-317"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15489,7 +15489,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15499,7 +15499,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15509,7 +15509,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-114"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15519,7 +15519,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-133"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15529,7 +15529,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-119"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15539,7 +15539,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-222"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15549,7 +15549,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15559,7 +15559,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-314"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15569,7 +15569,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15579,7 +15579,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15589,7 +15589,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15599,7 +15599,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15609,7 +15609,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-131"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15619,7 +15619,7 @@ lum_phaseC={
             Pnom={42},
             R={0},
             tableName={"Room-229A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15629,7 +15629,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15639,7 +15639,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-130"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15649,7 +15649,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15659,7 +15659,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-126"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15669,7 +15669,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-228C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15679,7 +15679,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-129"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15689,7 +15689,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-327"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15699,7 +15699,7 @@ lum_phaseC={
             Pnom={22},
             R={0},
             tableName={"Room-321"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15709,7 +15709,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-218B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15719,7 +15719,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15729,7 +15729,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-340C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15739,7 +15739,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15749,7 +15749,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-341A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15759,7 +15759,7 @@ lum_phaseC={
             Pnom={22},
             R={0},
             tableName={"Room-137"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15769,7 +15769,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-310"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15779,7 +15779,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-313"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15789,7 +15789,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15799,7 +15799,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-134"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15809,7 +15809,7 @@ lum_phaseC={
             Pnom={35},
             R={0},
             tableName={"Room-338"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15819,7 +15819,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15829,7 +15829,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15839,7 +15839,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-118"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15849,7 +15849,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-125A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15859,7 +15859,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-306"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15869,7 +15869,7 @@ lum_phaseC={
             Pnom={34},
             R={0},
             tableName={"Room-109"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15879,7 +15879,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-133"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15889,7 +15889,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-315"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15899,7 +15899,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-110A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15909,7 +15909,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15919,7 +15919,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-132"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15929,7 +15929,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-229A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15939,7 +15939,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15949,7 +15949,7 @@ lum_phaseC={
             Pnom={22},
             R={0},
             tableName={"Room-336"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15959,7 +15959,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-110C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15969,7 +15969,7 @@ lum_phaseC={
             Pnom={42},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15979,7 +15979,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217D"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15989,7 +15989,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-204"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -15999,7 +15999,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-122C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16009,7 +16009,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-324"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16019,7 +16019,7 @@ lum_phaseC={
             Pnom={22},
             R={0},
             tableName={"Room-125B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16029,7 +16029,7 @@ lum_phaseC={
             Pnom={34},
             R={0},
             tableName={"Room-136"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16039,7 +16039,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-223"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16049,7 +16049,7 @@ lum_phaseC={
             Pnom={25.000000000000004},
             R={0},
             tableName={"Room-328"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16059,7 +16059,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-214"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16069,7 +16069,7 @@ lum_phaseC={
             Pnom={40},
             R={0},
             tableName={"Room-129"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16079,7 +16079,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16089,7 +16089,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-113"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16099,7 +16099,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16109,7 +16109,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-127"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16119,7 +16119,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-110B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16129,7 +16129,7 @@ lum_phaseC={
             Pnom={21},
             R={0},
             tableName={"Room-126"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16139,7 +16139,7 @@ lum_phaseC={
             Pnom={28},
             R={0},
             tableName={"Room-222"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16149,7 +16149,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-228C"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16159,7 +16159,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-218A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16169,7 +16169,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-303B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP3.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP3.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16179,7 +16179,7 @@ lum_phaseC={
             Pnom={20},
             R={0},
             tableName={"Room-102"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16189,7 +16189,7 @@ lum_phaseC={
             Pnom={35},
             R={0},
             tableName={"Room-104"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP1.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP1.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16199,7 +16199,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-227B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16209,7 +16209,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-218A"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16219,7 +16219,7 @@ lum_phaseC={
             Pnom={31},
             R={0},
             tableName={"Room-217B"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -16229,7 +16229,7 @@ lum_phaseC={
             Pnom={22},
             R={0},
             tableName={"Room-204"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/occsim_typi_lighting_LP2.txt")})},
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/occsim_typi_lighting_LP2.txt")})},
 melconv_phaseA={
             .HPF.Templates.Data.ACConverter(name="http://app.speckle.systems/projects/814e0c495e/objects/d1644439412f4aa63dcb209f06248a1b",
                 V_Rect=19.5,
@@ -17995,7 +17995,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18005,7 +18005,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18015,7 +18015,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18025,7 +18025,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18035,7 +18035,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18045,7 +18045,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18055,7 +18055,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18065,7 +18065,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18075,7 +18075,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18085,7 +18085,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18095,7 +18095,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18105,7 +18105,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18115,7 +18115,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18125,7 +18125,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18135,7 +18135,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18145,7 +18145,7 @@ mel_phaseA={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18155,7 +18155,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18165,7 +18165,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18175,7 +18175,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18185,7 +18185,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18195,7 +18195,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18205,7 +18205,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18215,7 +18215,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18225,7 +18225,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18235,7 +18235,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18245,7 +18245,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18255,7 +18255,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18265,7 +18265,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18275,7 +18275,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18285,7 +18285,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18295,7 +18295,7 @@ mel_phaseA={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18305,7 +18305,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18315,7 +18315,7 @@ mel_phaseA={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18325,7 +18325,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18335,7 +18335,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18345,7 +18345,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18355,7 +18355,7 @@ mel_phaseA={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18365,7 +18365,7 @@ mel_phaseA={
             Pnom={684},
             R={0},
             tableName={"L1-All-MFDs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18375,7 +18375,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18385,7 +18385,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18395,7 +18395,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18405,7 +18405,7 @@ mel_phaseA={
             Pnom={684},
             R={0},
             tableName={"L1-All-MFDs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18415,7 +18415,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18425,7 +18425,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18435,7 +18435,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18445,7 +18445,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18455,7 +18455,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18465,7 +18465,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18475,7 +18475,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18485,7 +18485,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18495,7 +18495,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18505,7 +18505,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18515,7 +18515,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18525,7 +18525,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18535,7 +18535,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18545,7 +18545,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18555,7 +18555,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18565,7 +18565,7 @@ mel_phaseA={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18575,7 +18575,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18585,7 +18585,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18595,7 +18595,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18605,7 +18605,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18615,7 +18615,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18625,7 +18625,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18635,7 +18635,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18645,7 +18645,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18655,7 +18655,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18665,7 +18665,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18675,7 +18675,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18685,7 +18685,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18695,7 +18695,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18705,7 +18705,7 @@ mel_phaseA={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18715,7 +18715,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18725,7 +18725,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18735,7 +18735,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18745,7 +18745,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18755,7 +18755,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18765,7 +18765,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18775,7 +18775,7 @@ mel_phaseA={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18785,7 +18785,7 @@ mel_phaseA={
             Pnom={684},
             R={0},
             tableName={"L1-All-MFDs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18795,7 +18795,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18805,7 +18805,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18815,7 +18815,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18825,7 +18825,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18835,7 +18835,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18845,7 +18845,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18855,7 +18855,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18865,7 +18865,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18875,7 +18875,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18885,7 +18885,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18895,7 +18895,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18905,7 +18905,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18915,7 +18915,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18925,7 +18925,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18935,7 +18935,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18945,7 +18945,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18955,7 +18955,7 @@ mel_phaseA={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18965,7 +18965,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18975,7 +18975,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18985,7 +18985,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -18995,7 +18995,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19005,7 +19005,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19015,7 +19015,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19025,7 +19025,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19035,7 +19035,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19045,7 +19045,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19055,7 +19055,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19065,7 +19065,7 @@ mel_phaseA={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19075,7 +19075,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19085,7 +19085,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19095,7 +19095,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19105,7 +19105,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19115,7 +19115,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19125,7 +19125,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19135,7 +19135,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19145,7 +19145,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19155,7 +19155,7 @@ mel_phaseA={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19165,7 +19165,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19175,7 +19175,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19185,7 +19185,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19195,7 +19195,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19205,7 +19205,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19215,7 +19215,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19225,7 +19225,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19235,7 +19235,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19245,7 +19245,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19255,7 +19255,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19265,7 +19265,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19275,7 +19275,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19285,7 +19285,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19295,7 +19295,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19305,7 +19305,7 @@ mel_phaseA={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19315,7 +19315,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19325,7 +19325,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19335,7 +19335,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19345,7 +19345,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19355,7 +19355,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19365,7 +19365,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19375,7 +19375,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19385,7 +19385,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19395,7 +19395,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19405,7 +19405,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19415,7 +19415,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19425,7 +19425,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19435,7 +19435,7 @@ mel_phaseA={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19445,7 +19445,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19455,7 +19455,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19465,7 +19465,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19475,7 +19475,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19485,7 +19485,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19495,7 +19495,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19505,7 +19505,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19515,7 +19515,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19525,7 +19525,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19535,7 +19535,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19545,7 +19545,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19555,7 +19555,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19565,7 +19565,7 @@ mel_phaseA={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19575,7 +19575,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19585,7 +19585,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19595,7 +19595,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19605,7 +19605,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19615,7 +19615,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19625,7 +19625,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19635,7 +19635,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19645,7 +19645,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19655,7 +19655,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19665,7 +19665,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19675,7 +19675,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19685,7 +19685,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19695,7 +19695,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19705,7 +19705,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19715,7 +19715,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19725,7 +19725,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19735,7 +19735,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19745,7 +19745,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19755,7 +19755,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19765,7 +19765,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19775,7 +19775,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19785,7 +19785,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19795,7 +19795,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19805,7 +19805,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19815,7 +19815,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19825,7 +19825,7 @@ mel_phaseA={
             Pnom={684},
             R={0},
             tableName={"L1-All-MFDs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19835,7 +19835,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19845,7 +19845,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19855,7 +19855,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19865,7 +19865,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19875,7 +19875,7 @@ mel_phaseA={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19885,7 +19885,7 @@ mel_phaseA={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19895,7 +19895,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19905,7 +19905,7 @@ mel_phaseA={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19915,7 +19915,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19925,7 +19925,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -19935,7 +19935,7 @@ mel_phaseA={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})},
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})},
 melconv_phaseB={
             .HPF.Templates.Data.ACConverter(name="http://app.speckle.systems/projects/814e0c495e/objects/2d7b8cdcd9e90114556b540f59aff7eb",
                 V_Rect=19.5,
@@ -21710,7 +21710,7 @@ mel_phaseB={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21720,7 +21720,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21730,7 +21730,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21740,7 +21740,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21750,7 +21750,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21760,7 +21760,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21770,7 +21770,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21780,7 +21780,7 @@ mel_phaseB={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21790,7 +21790,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21800,7 +21800,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21810,7 +21810,7 @@ mel_phaseB={
             Pnom={684},
             R={0},
             tableName={"L1-All-MFDs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21820,7 +21820,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21830,7 +21830,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21840,7 +21840,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21850,7 +21850,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21860,7 +21860,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21870,7 +21870,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21880,7 +21880,7 @@ mel_phaseB={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21890,7 +21890,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21900,7 +21900,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21910,7 +21910,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21920,7 +21920,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21930,7 +21930,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21940,7 +21940,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21950,7 +21950,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21960,7 +21960,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21970,7 +21970,7 @@ mel_phaseB={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21980,7 +21980,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -21990,7 +21990,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22000,7 +22000,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22010,7 +22010,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22020,7 +22020,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22030,7 +22030,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22040,7 +22040,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22050,7 +22050,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22060,7 +22060,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22070,7 +22070,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22080,7 +22080,7 @@ mel_phaseB={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22090,7 +22090,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22100,7 +22100,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22110,7 +22110,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22120,7 +22120,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22130,7 +22130,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22140,7 +22140,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22150,7 +22150,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22160,7 +22160,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22170,7 +22170,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22180,7 +22180,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22190,7 +22190,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22200,7 +22200,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22210,7 +22210,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22220,7 +22220,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22230,7 +22230,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22240,7 +22240,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22250,7 +22250,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22260,7 +22260,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22270,7 +22270,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22280,7 +22280,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22290,7 +22290,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22300,7 +22300,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22310,7 +22310,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22320,7 +22320,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22330,7 +22330,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22340,7 +22340,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22350,7 +22350,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22360,7 +22360,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22370,7 +22370,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22380,7 +22380,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22390,7 +22390,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22400,7 +22400,7 @@ mel_phaseB={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22410,7 +22410,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22420,7 +22420,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22430,7 +22430,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22440,7 +22440,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22450,7 +22450,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22460,7 +22460,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22470,7 +22470,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22480,7 +22480,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22490,7 +22490,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22500,7 +22500,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22510,7 +22510,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22520,7 +22520,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22530,7 +22530,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22540,7 +22540,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22550,7 +22550,7 @@ mel_phaseB={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22560,7 +22560,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22570,7 +22570,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22580,7 +22580,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22590,7 +22590,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22600,7 +22600,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22610,7 +22610,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22620,7 +22620,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22630,7 +22630,7 @@ mel_phaseB={
             Pnom={684},
             R={0},
             tableName={"L1-All-MFDs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22640,7 +22640,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22650,7 +22650,7 @@ mel_phaseB={
             Pnom={684},
             R={0},
             tableName={"L1-All-MFDs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22660,7 +22660,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22670,7 +22670,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22680,7 +22680,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22690,7 +22690,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22700,7 +22700,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22710,7 +22710,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22720,7 +22720,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22730,7 +22730,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22740,7 +22740,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22750,7 +22750,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22760,7 +22760,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22770,7 +22770,7 @@ mel_phaseB={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22780,7 +22780,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22790,7 +22790,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22800,7 +22800,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22810,7 +22810,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22820,7 +22820,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22830,7 +22830,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22840,7 +22840,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22850,7 +22850,7 @@ mel_phaseB={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22860,7 +22860,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22870,7 +22870,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22880,7 +22880,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22890,7 +22890,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22900,7 +22900,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22910,7 +22910,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22920,7 +22920,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22930,7 +22930,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22940,7 +22940,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22950,7 +22950,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22960,7 +22960,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22970,7 +22970,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22980,7 +22980,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -22990,7 +22990,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23000,7 +23000,7 @@ mel_phaseB={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23010,7 +23010,7 @@ mel_phaseB={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23020,7 +23020,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23030,7 +23030,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23040,7 +23040,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23050,7 +23050,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23060,7 +23060,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23070,7 +23070,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23080,7 +23080,7 @@ mel_phaseB={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23090,7 +23090,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23100,7 +23100,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23110,7 +23110,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23120,7 +23120,7 @@ mel_phaseB={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23130,7 +23130,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23140,7 +23140,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23150,7 +23150,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23160,7 +23160,7 @@ mel_phaseB={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23170,7 +23170,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23180,7 +23180,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23190,7 +23190,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23200,7 +23200,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23210,7 +23210,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23220,7 +23220,7 @@ mel_phaseB={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23230,7 +23230,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23240,7 +23240,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23250,7 +23250,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23260,7 +23260,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23270,7 +23270,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23280,7 +23280,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23290,7 +23290,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23300,7 +23300,7 @@ mel_phaseB={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23310,7 +23310,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23320,7 +23320,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23330,7 +23330,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23340,7 +23340,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23350,7 +23350,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23360,7 +23360,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23370,7 +23370,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23380,7 +23380,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23390,7 +23390,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23400,7 +23400,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23410,7 +23410,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23420,7 +23420,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23430,7 +23430,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23440,7 +23440,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23450,7 +23450,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23460,7 +23460,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23470,7 +23470,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23480,7 +23480,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23490,7 +23490,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23500,7 +23500,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23510,7 +23510,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23520,7 +23520,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23530,7 +23530,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23540,7 +23540,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23550,7 +23550,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23560,7 +23560,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23570,7 +23570,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23580,7 +23580,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23590,7 +23590,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23600,7 +23600,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23610,7 +23610,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23620,7 +23620,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23630,7 +23630,7 @@ mel_phaseB={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23640,7 +23640,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23650,7 +23650,7 @@ mel_phaseB={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -23660,7 +23660,7 @@ mel_phaseB={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})},
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})},
 melconv_phaseC={
             .HPF.Templates.Data.ACConverter(name="http://app.speckle.systems/projects/814e0c495e/objects/0c4683691dfdbb4e31dd7ed7251e67e8",
                 V_Rect=19.5,
@@ -25435,7 +25435,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25445,7 +25445,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25455,7 +25455,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25465,7 +25465,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25475,7 +25475,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25485,7 +25485,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25495,7 +25495,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25505,7 +25505,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25515,7 +25515,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25525,7 +25525,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25535,7 +25535,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25545,7 +25545,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25555,7 +25555,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25565,7 +25565,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25575,7 +25575,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25585,7 +25585,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25595,7 +25595,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25605,7 +25605,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25615,7 +25615,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25625,7 +25625,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25635,7 +25635,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25645,7 +25645,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25655,7 +25655,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25665,7 +25665,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25675,7 +25675,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25685,7 +25685,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25695,7 +25695,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25705,7 +25705,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25715,7 +25715,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25725,7 +25725,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25735,7 +25735,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25745,7 +25745,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25755,7 +25755,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25765,7 +25765,7 @@ mel_phaseC={
             Pnom={684},
             R={0},
             tableName={"L1-All-MFDs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25775,7 +25775,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25785,7 +25785,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25795,7 +25795,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25805,7 +25805,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25815,7 +25815,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25825,7 +25825,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25835,7 +25835,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25845,7 +25845,7 @@ mel_phaseC={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25855,7 +25855,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25865,7 +25865,7 @@ mel_phaseC={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25875,7 +25875,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25885,7 +25885,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25895,7 +25895,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25905,7 +25905,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25915,7 +25915,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25925,7 +25925,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25935,7 +25935,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25945,7 +25945,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25955,7 +25955,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25965,7 +25965,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25975,7 +25975,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25985,7 +25985,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -25995,7 +25995,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26005,7 +26005,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26015,7 +26015,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26025,7 +26025,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26035,7 +26035,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26045,7 +26045,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26055,7 +26055,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26065,7 +26065,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26075,7 +26075,7 @@ mel_phaseC={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26085,7 +26085,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26095,7 +26095,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26105,7 +26105,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26115,7 +26115,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26125,7 +26125,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26135,7 +26135,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26145,7 +26145,7 @@ mel_phaseC={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26155,7 +26155,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26165,7 +26165,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26175,7 +26175,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26185,7 +26185,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26195,7 +26195,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26205,7 +26205,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26215,7 +26215,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26225,7 +26225,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26235,7 +26235,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26245,7 +26245,7 @@ mel_phaseC={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26255,7 +26255,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26265,7 +26265,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26275,7 +26275,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26285,7 +26285,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26295,7 +26295,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26305,7 +26305,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26315,7 +26315,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26325,7 +26325,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26335,7 +26335,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26345,7 +26345,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26355,7 +26355,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26365,7 +26365,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26375,7 +26375,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26385,7 +26385,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26395,7 +26395,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26405,7 +26405,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26415,7 +26415,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26425,7 +26425,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26435,7 +26435,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26445,7 +26445,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26455,7 +26455,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26465,7 +26465,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26475,7 +26475,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26485,7 +26485,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26495,7 +26495,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26505,7 +26505,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26515,7 +26515,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26525,7 +26525,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26535,7 +26535,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26545,7 +26545,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26555,7 +26555,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26565,7 +26565,7 @@ mel_phaseC={
             Pnom={684},
             R={0},
             tableName={"L1-All-MFDs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26575,7 +26575,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26585,7 +26585,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26595,7 +26595,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26605,7 +26605,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26615,7 +26615,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26625,7 +26625,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26635,7 +26635,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26645,7 +26645,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26655,7 +26655,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26665,7 +26665,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26675,7 +26675,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26685,7 +26685,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26695,7 +26695,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26705,7 +26705,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26715,7 +26715,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26725,7 +26725,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26735,7 +26735,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26745,7 +26745,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26755,7 +26755,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26765,7 +26765,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26775,7 +26775,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26785,7 +26785,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26795,7 +26795,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26805,7 +26805,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26815,7 +26815,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26825,7 +26825,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26835,7 +26835,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26845,7 +26845,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26855,7 +26855,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26865,7 +26865,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26875,7 +26875,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26885,7 +26885,7 @@ mel_phaseC={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26895,7 +26895,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26905,7 +26905,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26915,7 +26915,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26925,7 +26925,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26935,7 +26935,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26945,7 +26945,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26955,7 +26955,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26965,7 +26965,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26975,7 +26975,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26985,7 +26985,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -26995,7 +26995,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27005,7 +27005,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27015,7 +27015,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27025,7 +27025,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27035,7 +27035,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27045,7 +27045,7 @@ mel_phaseC={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27055,7 +27055,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27065,7 +27065,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27075,7 +27075,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27085,7 +27085,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27095,7 +27095,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27105,7 +27105,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27115,7 +27115,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27125,7 +27125,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27135,7 +27135,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27145,7 +27145,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27155,7 +27155,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27165,7 +27165,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27175,7 +27175,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27185,7 +27185,7 @@ mel_phaseC={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27195,7 +27195,7 @@ mel_phaseC={
             Pnom={127},
             R={0},
             tableName={"L1-All-TVs"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27205,7 +27205,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27215,7 +27215,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27225,7 +27225,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27235,7 +27235,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27245,7 +27245,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27255,7 +27255,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27265,7 +27265,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27275,7 +27275,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27285,7 +27285,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27295,7 +27295,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27305,7 +27305,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27315,7 +27315,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27325,7 +27325,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27335,7 +27335,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27345,7 +27345,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27355,7 +27355,7 @@ mel_phaseC={
             Pnom={46},
             R={0},
             tableName={"L1-All-Monitors"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27365,7 +27365,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27375,7 +27375,7 @@ mel_phaseC={
             Pnom={57},
             R={0},
             tableName={"L1-All-Laptops"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     ,
         .HPF.Templates.Data.LoadwStepDown(
             nLoad=1,
@@ -27385,7 +27385,7 @@ mel_phaseC={
             Pnom={875.0000000000001},
             R={0},
             tableName={"L1-All-Printers"},
-            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://PrototypeBuildingElectricalModels/Data/LoadProfiles/San-Diego-L1_MELs_LP.txt")})
+            fileName={.ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-L1_MELs_LP.txt")})
     }
 
 );

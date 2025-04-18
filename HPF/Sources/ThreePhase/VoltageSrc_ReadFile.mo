@@ -1,11 +1,11 @@
 within HPF.Sources.ThreePhase;
 model VoltageSrc_ReadFile "Three-phase voltage source. Input data from file."
   outer SystemDef systemDef;
-  HPF.SinglePhase.Interface.HPin_P pinP_phA(h = systemDef.numHrm)  annotation (
+  HPF.SinglePhase.Interface.HPin_P pinP_phC(h = systemDef.numHrm)  annotation (
     Placement(visible = true, transformation(origin = {100, -40}, extent = {{-10, -10}, {10, 10}}, rotation = 0), iconTransformation(origin = {102, 0}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
   HPF.SinglePhase.Interface.HPin_P pinP_phB(h = systemDef.numHrm)  annotation (
     Placement(visible = true, transformation(origin = {102, 0}, extent = {{-10, -10}, {10, 10}}, rotation = 0), iconTransformation(origin = {100, 80}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
-  HPF.SinglePhase.Interface.HPin_P pinP_phC(h = systemDef.numHrm)  annotation (
+  HPF.SinglePhase.Interface.HPin_P pinP_phA(h = systemDef.numHrm)  annotation (
     Placement(visible = true, transformation(origin = {100, 54}, extent = {{-10, -10}, {10, 10}}, rotation = 0), iconTransformation(origin = {100, -80}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
   HPF.SinglePhase.Interface.HPin_N pinN(h = systemDef.numHrm)  annotation (
     Placement(visible = true, transformation(origin = {100, -80}, extent = {{-10, -10}, {10, 10}}, rotation = 0), iconTransformation(origin = {34, -102}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));

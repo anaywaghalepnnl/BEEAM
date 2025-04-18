@@ -60,10 +60,6 @@ record medoff_record_2
     annotation (Placement(transformation(extent={{60,20},{80,40}})));
   parameter .HPF.Templates.Data.ACConverter melconv_phaseC[nconverter_melC]
     annotation (Placement(transformation(extent={{60,20},{80,40}})));
-  parameter Inverter Inverter;
-  parameter aCload aCload;
-  parameter PV PV;
-  parameter MPPT MPPT;
 
   annotation (Icon(coordinateSystem(preserveAspectRatio=false)), Diagram(
         coordinateSystem(preserveAspectRatio=false)));

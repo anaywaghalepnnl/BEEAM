@@ -12,8 +12,8 @@ model medoff_template_1
     parameter Integer nconverter_melA = modelData.nconverter_melA;
     parameter Integer nconverter_melB = modelData.nconverter_melB;
     parameter Integer nconverter_melC = modelData.nconverter_melC;
-    
-    replaceable parameter .HPF.Templates.Data.Examples.medium_office_light_mel_2 modelData annotation(Placement(transformation(extent = {{-86.0,74.0},{-66.0,94.0}},origin = {0.0,0.0},rotation = 0.0)));
+
+    replaceable parameter .HPF.Templates.Data.Examples.medium_office_light_mel modelData annotation(Placement(transformation(extent = {{-86.0,74.0},{-66.0,94.0}},origin = {0.0,0.0},rotation = 0.0)));
     
     .HPF.Templates.LoadwStepDown lum_phaseA[modelData.nStepDown_lumA](redeclare replaceable HPF.DC.DC2DC_Converters.DummyShort dcdc_Converter, modelData=
          modelData.lum_phaseA) annotation(Placement(transformation(extent = {{129.2,10.0},{149.2,30.0}},origin = {0.0,0.0},rotation = 0.0)));
@@ -73,7 +73,7 @@ model medoff_template_1
          modelData.lum_phaseC) annotation(Placement(transformation(extent = {{128.0,-64.5},{148.0,-44.5}},origin = {0.0,0.0},rotation = 0.0)));
     .HPF.Cables.NEC_CableModel nEC_CableModel6[modelData.nconverter_lumC](wireGaugeAC = HPF.Types.WireGaugeAC.gauge_12) annotation(Placement(transformation(extent = {{32.0,-58.0},{52.0,-38.0}},origin = {0.0,0.0},rotation = 0.0)));
     .HPF.SinglePhase.Components.Ground ground3 annotation(Placement(transformation(extent = {{44.0,-98.0},{60.0,-82.0}},origin = {0.0,0.0},rotation = 0.0)));
-    .HPF.Cables.NEC_CableModel nEC_CableModel7 annotation(Placement(transformation(extent = {{8.0,16.0},{28.0,36.0}},origin = {0.0,0.0},rotation = 0.0)));
+    .HPF.Cables.NEC_CableModel nEC_CableModel7 annotation(Placement(transformation(extent = {{8.0,20.0},{28.0,40.0}},origin = {0.0,0.0},rotation = 0.0)));
     .HPF.Cables.NEC_CableModel nEC_CableModel8 annotation(Placement(transformation(extent = {{6.0,-24.75},{26.0,-4.75}},origin = {0.0,0.0},rotation = 0.0)));
     .HPF.Cables.NEC_CableModel nEC_CableModel9 annotation(Placement(transformation(extent = {{2.0,-58.75},{22.0,-38.75}},origin = {0.0,0.0},rotation = 0.0)));
     inner .HPF.SystemDef systemDef annotation(Placement(transformation(extent = {{-90,44},{-62,68}},origin = {0,0},rotation = 0)));
@@ -132,13 +132,12 @@ model medoff_template_1
     .HPF.Cables.NEC_CableModel nEC_CableModel13 annotation(Placement(transformation(extent = {{118.14117647058822,119.11764705882354},{138.14117647058822,139.11764705882354}},origin = {0.0,0.0},rotation = 0.0)));
     .HPF.Cables.NEC_CableModel nEC_CableModel14 annotation(Placement(transformation(extent = {{116.14117647058823,79.11764705882354},{136.14117647058822,99.11764705882354}},origin = {0.0,0.0},rotation = 0.0)));
     .HPF.Cables.NEC_CableModel nEC_CableModel15 annotation(Placement(transformation(extent = {{112.14117647058823,45.11764705882353},{132.14117647058822,65.11764705882354}},origin = {0.0,0.0},rotation = 0.0)));
-    .HPF.SinglePhase.Components.Ground ground6 annotation(Placement(transformation(extent = {{82.0,34.0},{98.0,50.0}},origin = {0.0,0.0},rotation = 0.0)));
     
 
    
     .HPF.Cables.NEC_CableModel nEC_CableModel[modelData.nconverter_lumA](wireGaugeAC = HPF.Types.WireGaugeAC.gauge_12) annotation(Placement(transformation(extent = {{38.0,20.0},{58.0,40.0}},origin = {0.0,0.0},rotation = 0.0)));
     .HPF.SinglePhase.Components.Ground ground7 annotation(Placement(transformation(extent = {{158.0,18.0},{174.0,34.0}},origin = {0.0,0.0},rotation = 0.0)));
-    parameter Real stepdown[1];
+    //parameter Real stepdown[1];
     
     
     .HPF.Transformers.ThreePhase.Symmetric.D1Y d1Y(
@@ -150,15 +149,8 @@ model medoff_template_1
         Xm=10366.7*km,
         Xp=4.4882*kp,
         Xs=0.00665*ks) annotation(Placement(transformation(extent = {{-38.0,-20.0},{-18.0,0.0}},origin = {0.0,0.0},rotation = 0.0)));
-    .HPF.Transformers.ThreePhase.Symmetric.D1Y d1Y2(VPrimRated=480,
-        VSecRated=208,
-        Rc=932.1*km,
-        Rp=0.01837*kp,
-        Rs=0.0034489*ks,
-        Xm=81.9*km,
-        Xp=0.03661*kp,
-        Xs=0.006875*ks) annotation(Placement(transformation(extent = {{68,86},{88,106}},origin = {0,0},rotation = 0)));
-    .HPF.Templates.ACload aCload(aC_LoadIdealWye(P_nom = 100,V_nom = 277),ac_schedule(tableName = "Mechanical",fileName = .ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-Mechanical_LP.txt"),timeScale = 3600)) annotation(Placement(transformation(extent = {{10.0,-10.0},{-10.0,10.0}},origin = {-14.571428571428573,59.71428571428572},rotation = 90.0)));
+    .HPF.Templates.ACload aCload(aC_LoadIdealWye(P_nom = 100,V_nom = 277),ac_schedule(tableName = "Mechanical",fileName = .ModelicaServices.ExternalReferences.loadResource("modelica://HPF/Data/load_profiles/San-Diego-Mechanical_LP.txt"),timeScale = 3600)) annotation(Placement(transformation(extent = {{10,-10},{-10,10}},origin = {-14.571428571428573,59.71428571428572},rotation = 90)));
+    .HPF.Transformers.ThreePhase.Symmetric.D1Y Mels_xmer(Xs = 0.006875 * ks,Xp = 0.03661 * kp,Xm = 81.9 * km,Rs = 0.0034489 * ks,Rp = 0.01837 * kp,Rc = 932.1 * km,VSecRated = 208,VPrimRated = 480) annotation(Placement(visible = true,transformation(extent = {{72.00236307805518,96.91992651388307},{92.00236307805518,116.91992651388307}},rotation = 0,origin = {0,0})));
 equation
         for i in 1:nconverter_lumA loop
             if i>1 then
@@ -180,7 +172,9 @@ equation
             connect(lumconv_phaseA[i].pin_n,ground2.p) annotation(Line(points = {{83.19999999999999,8},{170,8},{170,-17.92422722805058}},color = {0,0,255}));
             connect(nEC_CableModel[i].pin_n,lumconv_phaseA[i].hPin_L) annotation(Line(points = {{56,28},{59.599999999999994,28},{59.599999999999994,24},{63.19999999999999,24}},color = {117,80,123}));
             connect(nEC_CableModel7.pin_n,nEC_CableModel[i].pin_p) annotation(Line(points = {{28,26},{36,26},{36,28}},color = {117,80,123}));
+            
          end for;
+ 
 
         for i in 1:nconverter_lumB loop
             if i>1 then
@@ -204,6 +198,7 @@ equation
             connect(lumconv_phaseB[i].hPin_N,ground3.pin) annotation(Line(points = {{62,-30.5},{52,-30.5},{52,-82}},color = {117,80,123}));
          end for;
 
+
          for i in 1:nconverter_lumC loop
             if i>1 then
                  for j in (sum(modelData.stepDown_indices_lumC[1:(i-1)])+1):(sum(modelData.stepDown_indices_lumC[1:(i-1)])+modelData.stepDown_indices_lumC[i]) loop
@@ -211,8 +206,6 @@ equation
                     connect(lumconv_phaseC[i].pin_p,nEC_CableModelDC3[j].p) annotation(Line(points = {{82,-50},{87,-50},{87,-46.5},{92,-46.5}},color = {0,0,255}));
                     connect(nEC_CableModelDC3[j].n,lum_phaseC[j].p) annotation(Line(points = {{112,-46.5},{120,-46.5},{120,-54.5},{128,-54.5}},color = {0,0,255}));
                     connect(lum_phaseC[j].n,ground2.p) annotation(Line(points = {{148,-54.5},{154,-54.5},{154,-11.92422722805058},{170,-11.92422722805058},{170,-17.92422722805058}},color = {0,0,255}));
-                    
-    
                  end for;
             else
                  for j in (1:modelData.stepDown_indices_lumC[1]) loop
@@ -227,6 +220,7 @@ equation
             connect(lumconv_phaseC[i].pin_n,ground2.p) annotation(Line(points = {{82,-66},{88,-66},{88,-74},{170,-74},{170,-17.92422722805058}},color = {0,0,255}));
             connect(lumconv_phaseC[i].hPin_N,ground3.pin) annotation(Line(points = {{62,-66},{52,-66},{52,-82}},color = {117,80,123}));
          end for;
+
 
          for i in 1:nconverter_melA loop
             if i>1 then
@@ -303,25 +297,21 @@ equation
     connect(voltageSource.pinP_phB,d1Y.pinPrim_B) annotation(Line(points = {{-60,-14},{-49,-14},{-49,-10},{-38,-10}},color = {92,53,102}));
     connect(voltageSource.pinP_phC,d1Y.pinPrim_C) annotation(Line(points = {{-60,-22},{-60,-28},{-38,-28},{-38,-20}},color = {92,53,102}));
     connect(d1Y.pinSec_N,ground.pin) annotation(Line(points = {{-18,-22},{-12,-22},{-12,-36},{-50,-36},{-50,-42}},color = {117,80,123}));
-    connect(d1Y.pinSec_A,nEC_CableModel7.pin_p) annotation(Line(points = {{-18,2},{-5,2},{-5,26},{8,26}},color = {92,53,102}));
+    connect(d1Y.pinSec_A,nEC_CableModel7.pin_p) annotation(Line(points = {{-18,2},{-5,2},{-5,30},{8,30}},color = {92,53,102}));
     connect(d1Y.pinSec_B,nEC_CableModel8.pin_p) annotation(Line(points = {{-18,-6},{-6,-6},{-6,-14.75},{6,-14.75}},color = {92,53,102}));
     connect(d1Y.pinSec_C,nEC_CableModel9.pin_p) annotation(Line(points = {{-18,-14},{-8,-14},{-8,-48.75},{2,-48.75}},color = {92,53,102}));
-    connect(d1Y2.pinSec_A,nEC_CableModel13.pin_p) annotation(Line(points = {{88,108},{103.07058823529411,108},{103.07058823529411,129.11764705882354},{118.14117647058822,129.11764705882354}},color = {92,53,102}));
-    connect(d1Y2.pinSec_B,nEC_CableModel14.pin_p) annotation(Line(points = {{88,100},{102.07058823529411,100},{102.07058823529411,89.11764705882354},{116.14117647058822,89.11764705882354}},color = {92,53,102}));
-    connect(d1Y2.pinSec_C,nEC_CableModel15.pin_p) annotation(Line(points = {{88,92},{100.07058823529411,92},{100.07058823529411,55.117647058823536},{112.14117647058822,55.117647058823536}},color = {92,53,102}));
-    connect(d1Y2.pinSec_N,ground6.pin) annotation(Line(points = {{88,84},{94,84},{94,56},{90,56},{90,50}},color = {117,80,123}));
-    connect(d1Y2.pinPrim_A,d1Y.pinSec_A) annotation(Line(points = {{68,106},{68,112},{-18,112},{-18,2}},color = {92,53,102}));
-    connect(d1Y2.pinPrim_B,d1Y.pinSec_B) annotation(Line(points = {{68,96},{-18,96},{-18,-6}},color = {92,53,102}));
-    connect(d1Y2.pinPrim_C,d1Y.pinSec_C) annotation(Line(points = {{68,86},{-18,86},{-18,-14}},color = {92,53,102}));
-    connect(aCload.hPin_A,d1Y.pinSec_A) annotation(Line(points = {{-16.171428571428578,44.314285714285724},{-16.171428571428578,38.314285714285724},{-12,38.314285714285724},{-12,2},{-18,2}},color = {92,53,102}));
-    connect(aCload.hPin_B,d1Y.pinSec_B) annotation(Line(points = {{-14.171428571428576,44.31428571428572},{-14.171428571428576,38.31428571428572},{-12,38.31428571428572},{-12,-6},{-18,-6}},color = {92,53,102}));
+    connect(aCload.hPin_N,d1Y.pinSec_N) annotation(Line(points = {{-9.571428571428577,44.31428571428572},{-9.571428571428577,-22},{-18,-22}},color = {117,80,123}));
     connect(aCload.hPin_C,d1Y.pinSec_C) annotation(Line(points = {{-12.171428571428576,44.314285714285724},{-12.171428571428576,38.314285714285724},{-12,38.314285714285724},{-12,-14},{-18,-14}},color = {92,53,102}));
-    connect(aCload.hPin_N,d1Y.pinSec_N) annotation(Line(points = {{-9.571428571428577,44.31428571428572},{-3.5714285714285765,44.31428571428572},{-3.5714285714285765,-22},{-18,-22}},color = {117,80,123}));
+    connect(aCload.hPin_B,d1Y.pinSec_B) annotation(Line(points = {{-14.171428571428576,44.31428571428572},{-14.171428571428576,38.31428571428572},{-12,38.31428571428572},{-12,-6},{-18,-6}},color = {92,53,102}));
+    connect(aCload.hPin_A,d1Y.pinSec_A) annotation(Line(points = {{-16.171428571428578,44.314285714285724},{-16.171428571428578,38.314285714285724},{-12,38.314285714285724},{-12,2},{-18,2}},color = {92,53,102}));
+    connect(d1Y.pinSec_A,Mels_xmer.pinPrim_A) annotation(Line(points = {{-18,2},{-12,2},{-12,122.91992651388307},{72.00236307805518,122.91992651388307},{72.00236307805518,116.91992651388307}},color = {92,53,102}));
+    connect(d1Y.pinSec_B,Mels_xmer.pinPrim_B) annotation(Line(points = {{-18,-6},{27.00118153902759,-6},{27.00118153902759,106.91992651388307},{72.00236307805518,106.91992651388307}},color = {92,53,102}));
+    connect(d1Y.pinSec_C,Mels_xmer.pinPrim_C) annotation(Line(points = {{-18,-14},{72.00236307805518,-14},{72.00236307805518,96.91992651388307}},color = {92,53,102}));
+    connect(Mels_xmer.pinSec_N,ground7.pin) annotation(Line(points = {{92.00236307805518,94.91992651388307},{166,94.91992651388307},{166,34}},color = {117,80,123}));
+    connect(Mels_xmer.pinSec_A,nEC_CableModel13.pin_p) annotation(Line(points = {{92.00236307805518,118.91992651388307},{105.0717697743217,118.91992651388307},{105.0717697743217,129.11764705882354},{118.14117647058822,129.11764705882354}},color = {92,53,102}));
+    connect(Mels_xmer.pinSec_B,nEC_CableModel14.pin_p) annotation(Line(points = {{92.00236307805518,110.91992651388307},{104.0717697743217,110.91992651388307},{104.0717697743217,89.11764705882354},{116.14117647058822,89.11764705882354}},color = {92,53,102}));
+    connect(Mels_xmer.pinSec_C,nEC_CableModel15.pin_p) annotation(Line(points = {{92.00236307805518,102.91992651388307},{102.0717697743217,102.91992651388307},{102.0717697743217,55.117647058823536},{112.14117647058822,55.117647058823536}},color = {92,53,102}));
     
-    
-
-
-    
-
+  
    
 end medoff_template_1;

@@ -14,7 +14,9 @@
             "start_time" : 0
           },
           "simulationOptions" : {
-            "dynamic_diagnostics" : false
+            "dynamic_diagnostics" : false,
+            "ncp" : 500,
+            "result_max_size" : 20000000000
           },
           "solverOptions" : {
             "store_event_points" : false,
@@ -47,7 +49,7 @@
   },
   "metadata" : {
     "created" : "2024-07-18 21:47:28.723122844",
-    "lastModified" : "2025-02-25T21:52:39.289326053Z",
+    "lastModified" : "2025-04-16T20:17:43.342850860Z",
     "name" : "Experiment 3"
   }
 }

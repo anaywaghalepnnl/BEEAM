@@ -11,25 +11,31 @@ model BESS
  Real SOC(start=initialSOC) "State of Charge (0 to 1)";
  //input Real P_ref "Reference power (positive = charge, negative = discharge)";
  // Controller parameters
- parameter Real Kp = 0.1 "Proportional gain for voltage control";
  parameter Real epsilon = 0.01;
+ parameter Real R_internal = 0.01; 
  Real P_actual "Actual power (v * i)";
- //Real V_control "Controlled voltage";
+ Real V_ref "SOC dependent reference voltage";
  Real scale_charge;
  Real scale_discharge;
- .Modelica.Blocks.Interfaces.RealInput P_ref "Reference power (positive = charge, negative = discharge)" annotation(Placement(transformation(extent = {{-12.126974174863136,-12.126974174863136},{12.126974174863136,12.126974174863136}},origin = {0.0,-2.0},rotation = 90.0)));
  
-equation
-    
+ .Modelica.Blocks.Interfaces.RealInput P_ref "Reference power (positive = charge, negative = discharge)" annotation(Placement(transformation(extent = {{-12.126974174863136,-12.126974174863136},{12.126974174863136,12.126974174863136}},origin = {0.0,-2.0},rotation = 90.0)));
+    //.Modelica.Blocks.Interfaces.BooleanInput outage "True for outage, false for normal operation" annotation(Placement(transformation(extent = {{-12.378343178502355,-12.378343178502346},{12.378343178502355,12.378343178502346}},origin = {-36.0,-2.0},rotation = 90.0)));
+  //  .Modelica.Blocks.Interfaces.BooleanInput outage annotation(Placement(transformation(extent = {{-12.437301524518984,-12.437301524518983},{12.437301524518984,12.437301524518983}},origin = {-30.0,-2.0},rotation = 90.0)));
+ 
+equation  
  // Voltage depends on SOC
- //v = nominalVoltage * (0.9 + 0.2 * SOC); // 43.2V at SOC=0, 52.8V at SOC=1
+ V_ref = nominalVoltage * (0.9 + 0.2 * SOC); // 43.2V at SOC=0, 52.8V at SOC=1
+ 
  // Define scaling factors for smooth transitions
  scale_charge = if SOC < 1 - epsilon then 1 else (1 - SOC) / epsilon;
  scale_discharge = if SOC > epsilon then 1 else SOC / epsilon;
- // Calculate current with limits and smoothing
- i = if P_ref > 0 then min(maxPower / max(v, 1e-6), P_ref / max(v, 1e-6)) * scale_charge
-     else if P_ref < 0 then max(-maxPower / max(v, 1e-6), P_ref / max(v, 1e-6)) * scale_discharge
-     else 0;
+ 
+ 
+ // Current calculation
+ i = if P_ref > 1e-6 then min(maxPower / max(V_ref, 1e-6), P_ref / max(V_ref, 1e-6)) * scale_charge
+     else if P_ref < -1e-6 then max(-maxPower / max(V_ref, 1e-6), P_ref / max(V_ref, 1e-6)) * scale_discharge
+     else  -min(maxPower / max(V_ref, 1e-6), maxPower / max(v, 1e-6)) * scale_discharge;
+
  // Power and SOC dynamics
  P_actual = v * i;
  der(SOC) = P_actual / (capacity * 3.6e6);
